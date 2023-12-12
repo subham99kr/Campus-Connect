@@ -7,7 +7,6 @@ module.exports.registerUser = async (req, res) => {
             name,
             email,
             admission_no,
-            is_admin,
             username,
             password
         } = req.body;
@@ -16,10 +15,9 @@ module.exports.registerUser = async (req, res) => {
             email: email,
             admission_no: admission_no,
             username: username,
-            is_admin: is_admin
+            is_admin: 0
         });
         await User.register(user, password);
-
         jwt.sign(
             { user },
             process.env.JWT_KEY,
@@ -33,7 +31,7 @@ module.exports.registerUser = async (req, res) => {
                 res.status(201).json({
                     message: "Registration Successful",
                     token: token,
-                    role: is_admin ? "admin" : "user",
+                    role: user.is_admin ? "admin" : "user",
                 });
             }
         );
@@ -47,10 +45,10 @@ module.exports.registerUser = async (req, res) => {
 }
 
 
-module.exports.loginUser = async (res, req) => {
-    var username = req.body.username;
-    const user = await User.findOne({ username });
+module.exports.loginUser = async (req, res) => {
     try {
+        var username = req.body.username;
+        const user = await User.findOne({ username });
         jwt.sign(
             { user },
             process.env.JWT_KEY,

@@ -16,6 +16,6 @@ router.route("/view")
   .get(checkToken, User.viewUser);
 
 router.route("/failure")
-  .get((req, res) => res.status(401).json({ message: req.session.messages[0] }));
+  .get((req, res) => res.status(401).json({ message: "Incorrect username or password" }));
 
 module.exports = router;

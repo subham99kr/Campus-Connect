@@ -10,6 +10,7 @@ const passport = require("passport");
 const LocalStrategy = require("passport-local");
 const session = require("express-session");
 const User = require("./models/user")
+const cors = require("cors");
 
 const dbUrl = process.env.DB_URL;
 const port = process.env.PORT || 3000;
@@ -35,6 +36,7 @@ const sessionOptions = {
     },
 };
 
+app.use(cors({ origin: '*' }));
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 app.use(methodOverride("_method"));
