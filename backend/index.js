@@ -6,6 +6,9 @@ const mongoose = require("mongoose");
 const methodOverride = require("method-override");
 const bodyParser = require("body-parser");
 const userRoutes = require("./routes/user");
+const postRoutes = require("./routes/post");
+const commentRoutes = require("./routes/comment");
+
 const passport = require("passport");
 const LocalStrategy = require("passport-local");
 const session = require("express-session");
@@ -49,6 +52,8 @@ passport.serializeUser(User.serializeUser());
 passport.deserializeUser(User.deserializeUser());
 
 app.use("/user", userRoutes);
+app.use("/post", postRoutes);
+app.use("/comment", commentRoutes);
 
 
 app.get("/", (req, res) => {

@@ -37,6 +37,7 @@ module.exports.addMaterialDirect = async (req, res) => {
         }
         course.material_direct.push(new_material);
         await course.save();
+        res.status(200).json({ message: "material succesfully uploaded" })
     }
     catch (e) {
         res.status(500).json({ message: e.message, name: e.name });
@@ -59,6 +60,7 @@ module.exports.addMaterialLink = async (req, res) => {
         }
         course.material_link.push(new_material);
         await course.save();
+        res.status(200).json({ message: "material link succesfully saved" })
     }
     catch (e) {
         res.status(500).json({ message: e.message, name: e.name });
