@@ -8,6 +8,7 @@ const bodyParser = require("body-parser");
 const userRoutes = require("./routes/user");
 const postRoutes = require("./routes/post");
 const commentRoutes = require("./routes/comment");
+const courseRoutes = require("./routes/course")
 
 const passport = require("passport");
 const LocalStrategy = require("passport-local");
@@ -53,6 +54,7 @@ passport.deserializeUser(User.deserializeUser());
 
 app.use("/user", userRoutes);
 app.use("/post", postRoutes);
+app.use("/course", courseRoutes);
 app.use("/comment", commentRoutes);
 
 

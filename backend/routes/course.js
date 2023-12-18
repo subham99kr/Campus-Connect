@@ -10,6 +10,7 @@ const router = express.Router();
 
 router.route("/")
     .get(Course.allView)// all course list
+    .post(Course.addCourse)
 
 router.route("/:id")
     .get(Course.singleView)// single coures view
@@ -19,3 +20,5 @@ router.route("/add_material_direct")
 
 router.route("/add_material_link")
     .post(checkToken, Course.addMaterialLink)
+
+module.exports = router;

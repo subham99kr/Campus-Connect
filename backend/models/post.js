@@ -1,5 +1,4 @@
 const mongoose = require('mongoose');
-const passportLocalMongoose = require('passport-local-mongoose');
 const Schema = mongoose.Schema;
 
 const PostSchema = new Schema({
@@ -28,5 +27,4 @@ const PostSchema = new Schema({
     }
 })
 
-PostSchema.plugin(passportLocalMongoose);
 module.exports = mongoose.model('post', PostSchema);

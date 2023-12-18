@@ -15,6 +15,9 @@ router.route("/login")
 router.route("/view")
   .get(checkToken, User.viewUser);
 
+router.route("/:id/get_name")
+  .get(User.getName);
+
 router.route("/failure")
   .get((req, res) => res.status(401).json({ message: "Incorrect username or password" }));
 

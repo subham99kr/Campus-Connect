@@ -8,9 +8,9 @@ router.route("/new")
     .post(checkToken, Comment.addComment)
 
 router.route("/:id/delete")
-    .delete(checkToken, Comment.deleteComment)
+    .delete(Comment.deleteComment)
 
 router.route("/:id/edit")
-    .post(checkToken, Comment.editComment)
+    .post(Comment.editComment)
 
 module.exports = router;

@@ -94,3 +94,14 @@ module.exports.viewUser = async (req, res) => {
         res.status(401).json({ name: e.name, message: e.message });
     }
 }
+
+module.exports.getName = async (req, res) => {
+    const { id } = req.params;
+    try {
+        const user = await User.findById(id);
+        console.log(user);
+        res.status(200).json({ name: user.name })
+    } catch (e) {
+        res.status(401).json({ name: e.name, message: e.message });
+    }
+}

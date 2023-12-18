@@ -1,26 +1,38 @@
 const Course = require("../models/course")
 const Post = require("../models/post")
+const jwt = require("jsonwebtoken");
 
 module.exports.addPost = async (req, res) => {
     try {
         const {
             course_id,
-            user_id,
             title,
             content
         } = req.body;
         const course = await Course.findById(course_id);
-        const new_post = {
-            title: title,
-            content: content,
-            associated_course: course_id,
-            uploader: user_id
-        }
-        course.associated_posts.push(new_post);
-        await course.save();
-        const post = new Post(new_post);
-        await post.save();
-        res.status(200).json({ message: "successfully posted" })
+        jwt.verify(req.token, process.env.JWT_KEY, async (err, authorizedData) => {
+            if (err) {
+                res.status(403).json({
+                    message: "protected Route"
+                });
+            } else {
+                if (authorizedData.hasOwnProperty("user")) {
+                    const new_post = {
+                        title: title,
+                        content: content,
+                        associated_course: course_id,
+                        uploader: authorizedData.user._id
+                    }
+                    const post = new Post(new_post);
+                    await post.save();
+                    course.associated_posts.push(post._id);
+                    await course.save();
+                    res.status(200).json({ message: "successfully posted" })
+                } else {
+                    res.status(401).json({ message: "Unauthorized access to user's profile" });
+                }
+            }
+        });
     }
     catch (e) {
         res.status(500).json({ message: e.message, name: e.name });

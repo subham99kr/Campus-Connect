@@ -1,5 +1,4 @@
 const mongoose = require('mongoose');
-const passportLocalMongoose = require('passport-local-mongoose');
 const Schema = mongoose.Schema;
 
 const CommentSchema = new Schema({
@@ -16,10 +15,8 @@ const CommentSchema = new Schema({
     },
     date: {
         type: Date,
-        default: Date.now, // Assign the current date and time by default
-        // other validation options...
+        default: Date.now
     }
 })
 
-CommentSchema.plugin(passportLocalMongoose);
 module.exports = mongoose.model('comment', CommentSchema);
