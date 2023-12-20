@@ -7,6 +7,6 @@ module.exports.checkToken = (req, res, next) => {
         req.token = token;
         next();
     } else {
-        res.sendStatus(403)
+        res.status(403).json({ message: "forbidden" })
     }
 }

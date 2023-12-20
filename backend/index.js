@@ -9,6 +9,7 @@ const userRoutes = require("./routes/user");
 const postRoutes = require("./routes/post");
 const commentRoutes = require("./routes/comment");
 const courseRoutes = require("./routes/course")
+const ratingRoutes = require("./routes/rating")
 
 const passport = require("passport");
 const LocalStrategy = require("passport-local");
@@ -56,10 +57,11 @@ app.use("/user", userRoutes);
 app.use("/post", postRoutes);
 app.use("/course", courseRoutes);
 app.use("/comment", commentRoutes);
+app.use("/rating", ratingRoutes);
 
 
 app.get("/", (req, res) => {
-    res.json({ home: "home" });
+    res.status(200).json({ home: "home" });
 });
 
 app.listen(port, () => {

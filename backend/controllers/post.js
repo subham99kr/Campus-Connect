@@ -1,4 +1,5 @@
 const Course = require("../models/course")
+const Comment = require("../models/comment")
 const Post = require("../models/post")
 const jwt = require("jsonwebtoken");
 
@@ -50,9 +51,29 @@ module.exports.viewComments = async (req, res) => {
 module.exports.deletePost = async (req, res) => {
     try {
         const { id } = req.params;
-        await Post.findByIdAndDelete(id);
-        res.status(200).json({ message: "Successfully deleted" });
-
+        const post = await Post.findById(id);
+        jwt.verify(req.token, process.env.JWT_KEY, async (err, authorizedData) => {
+            if (err) {
+                res.status(403).json({
+                    message: "protected Route"
+                });
+            } else {
+                if (authorizedData.hasOwnProperty("user") && authorizedData.user._id == post.uploader) {
+                    for (let comment_id of post.comments) {
+                        await Comment.findByIdAndDelete(comment_id);
+                    }
+                    const course = await Course.findById(post.associated_course);
+                    const index = course.associated_posts.indexOf(id);
+                    course.associated_posts.splice(index, 1);
+                    await course.save();
+                    await Post.findByIdAndDelete(id);
+                    res.status(200).json({ message: "Successfully deleted" });
+                }
+                else {
+                    res.status(403).json({ message: "not authorized to delete this post" })
+                }
+            }
+        })
     }
     catch (e) {
         res.status(401).json({ name: e.name, message: e.message });
@@ -61,9 +82,22 @@ module.exports.deletePost = async (req, res) => {
 module.exports.editPost = async (req, res) => {
     try {
         const { id } = req.params;
-        await Post.findByIdAndUpdate(id, { ...req.body.post });
-        res.status(200).json({ message: "Successfully edited" });
-
+        const post = await Post.findById(id);
+        jwt.verify(req.token, process.env.JWT_KEY, async (err, authorizedData) => {
+            if (err) {
+                res.status(403).json({
+                    message: "protected Route"
+                });
+            } else {
+                if (authorizedData.hasOwnProperty("user") && authorizedData.user._id == post.uploader) {
+                    await Post.findByIdAndUpdate(id, { ...req.body.post });
+                    res.status(200).json({ message: "Successfully edited" });
+                }
+                else {
+                    res.status(403).json({ message: "not authorized to edit this post" })
+                }
+            }
+        })
     }
     catch (e) {
         res.status(401).json({ name: e.name, message: e.message });

@@ -36,7 +36,17 @@ const CourseSchema = new Schema({
             type: Schema.Types.ObjectId,
             ref: 'post'
         }
-    ]
+    ],
+    ratings: [
+        {
+            type: Schema.Types.ObjectId,
+            ref: 'rating'
+        }
+    ],
+    stars: {
+        type: [Number],
+        default: Array(10).fill(0),
+    }
 })
 
 module.exports = mongoose.model('course', CourseSchema);

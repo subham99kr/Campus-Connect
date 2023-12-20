@@ -11,7 +11,7 @@ router.route("/:id/comments")
     .get(Post.viewComments)// single coures view
 
 router.route("/:id/delete")
-    .delete(Post.deletePost)
+    .delete(checkToken, Post.deletePost)
 
 router.route("/:id/edit")
     .put(Post.editPost)
