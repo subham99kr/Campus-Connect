@@ -13,7 +13,6 @@ const ratingRoutes = require("./routes/rating")
 
 const passport = require("passport");
 const LocalStrategy = require("passport-local");
-const session = require("express-session");
 const User = require("./models/user")
 const cors = require("cors");
 
@@ -30,23 +29,12 @@ db.once("open", function () {
 
 const app = express();
 
-const sessionOptions = {
-    secret: process.env.SECRET_SESSION,
-    resave: false,
-    saveUninitialized: false,
-    cookie: {
-        httpOnly: true,
-        expires: Date.now() + 1000 * 60 * 60 * 24 * 7,
-        maxAge: 1000 * 60 * 60 * 24 * 7,
-    },
-};
 
 app.use(cors({ origin: '*' }));
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 app.use(methodOverride("_method"));
 
-app.use(session(sessionOptions));
 app.use(passport.initialize());
 app.use(passport.session());
 passport.use(new LocalStrategy(User.authenticate()));

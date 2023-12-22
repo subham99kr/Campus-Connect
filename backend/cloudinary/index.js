@@ -10,7 +10,7 @@ cloudinary.config({
 const storage = new CloudinaryStorage({
     cloudinary,
     params: {
-        folder: 'college-connect',
+        folder: 'campus-connect',
         allowedFormats: ['pdf', 'zip']
     }
 })

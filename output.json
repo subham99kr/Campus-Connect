@@ -1,0 +1,3476 @@
+[
+    {
+        "code": "CEC206",
+        "name": "Structural Analysis - I",
+        "instructor": "Sanket  Nayak",
+        "description": "b.tech, cve, 4, 3-1-0"
+    },
+    {
+        "code": "CEC207",
+        "name": "Design of Concrete Structures",
+        "instructor": "Tanish  Dey",
+        "description": "b.tech, cve, 4, 3-0-0"
+    },
+    {
+        "code": "CEC208",
+        "name": "Geotechnical Engineering",
+        "instructor": "Vishwas Nandkishor Khatri",
+        "description": "b.tech, cve, 4, 3-0-0"
+    },
+    {
+        "code": "CEC209",
+        "name": "Transportation Engineering",
+        "instructor": "Smruti Sourava Mohapatra",
+        "description": "b.tech, cve, 4, 3-1-0"
+    },
+    {
+        "code": "CEC210",
+        "name": "Surveying Laboratory",
+        "instructor": "Avinash Kumar Singh,Shushobhit   Chaudhary",
+        "description": "b.tech, cve, 4, 0-0-2"
+    },
+    {
+        "code": "CEC211",
+        "name": "Transportation Engineering Laboratory",
+        "instructor": "Smruti Sourava Mohapatra",
+        "description": "b.tech, cve, 4, 0-0-2"
+    },
+    {
+        "code": "CEC305",
+        "name": "Design of Steel Structures",
+        "instructor": "Rahul  Bhartiya",
+        "description": "b.tech, cve, 6, 3-0-0"
+    },
+    {
+        "code": "CEC306",
+        "name": "Water Resources Engineering",
+        "instructor": "Srinivas  Pasupuleti",
+        "description": "b.tech, cve, 6, 3-0-0"
+    },
+    {
+        "code": "CEC307",
+        "name": "Structural Detailing Laboratory",
+        "instructor": "Rahul  Bhartiya",
+        "description": "b.tech, cve, 6, 0-0-2"
+    },
+    {
+        "code": "CEC308",
+        "name": "Water Resources Engineering Laboratory",
+        "instructor": "Srinivas  Pasupuleti",
+        "description": "b.tech, cve, 6, 0-0-2"
+    },
+    {
+        "code": "CEC502",
+        "name": "Research Methodology and Statistics",
+        "instructor": "Abhishek Kumar Pandey",
+        "description": "jrf, cve, 2, 3-0-0"
+    },
+    {
+        "code": "CEC509",
+        "name": "Advanced Testing Laboratory",
+        "instructor": "Sarat Kumar Das,Bandita  Barman,Sekhar Chandra Dutta,Smruti Sourava Mohapatra",
+        "description": "m.tech, cve, 2, 0-0-3"
+    },
+    {
+        "code": "CEC510",
+        "name": "Term Project",
+        "instructor": "Sarat Kumar Das",
+        "description": "m.tech, cve, 2, 0-0-2"
+    },
+    {
+        "code": "CED404",
+        "name": "Environmental Engineering - II",
+        "instructor": "Renu  V",
+        "description": "b.tech, cve, 8, 3-0-0"
+    },
+    {
+        "code": "CED528",
+        "name": "Structural Dynamics",
+        "instructor": "Sekhar Chandra Dutta",
+        "description": "m.tech, cve, 2, 3-0-0"
+    },
+    {
+        "code": "CED529",
+        "name": "Advanced Foundation Engineering",
+        "instructor": "Rajib  Sarkar,Avinash Kumar Singh",
+        "description": "b.tech, cve, 8, 3-0-0"
+    },
+    {
+        "code": "CED530",
+        "name": "Hydrogeology and Well Hydraulics",
+        "instructor": "Bandita  Barman",
+        "description": "m.tech, cve, 2, 3-0-0"
+    },
+    {
+        "code": "CED532",
+        "name": "Slope and Retaining Structure",
+        "instructor": "Vishwas Nandkishor Khatri",
+        "description": "m.tech, cve, 2, 3-0-0"
+    },
+    {
+        "code": "CED533",
+        "name": "Hydroclimatology",
+        "instructor": "Kironmala  Chanda",
+        "description": "m.tech, cve, 2, 3-0-0"
+    },
+    {
+        "code": "CED534",
+        "name": "Theory of Elastic Stability",
+        "instructor": "Tanish  Dey",
+        "description": "m.tech, cve, 2, 3-0-0"
+    },
+    {
+        "code": "CED535",
+        "name": "Soil Dynamics",
+        "instructor": "Rajib  Sarkar",
+        "description": "m.tech, cve, 2, 3-0-0"
+    },
+    {
+        "code": "CED537",
+        "name": "Earthquake Engineering",
+        "instructor": "Sanket  Nayak",
+        "description": "m.tech, cve, 2, 3-0-0"
+    },
+    {
+        "code": "CED542",
+        "name": "Prestressed Concrete Structures",
+        "instructor": "Satadru  Das Adhikary",
+        "description": "b.tech, cve, 8, 3-0-0"
+    },
+    {
+        "code": "CEE202",
+        "name": "Fluid Mechanics and Machines",
+        "instructor": "Kironmala  Chanda,Bandita  Barman",
+        "description": "b.tech, cve, 4, 3-0-0"
+    },
+    {
+        "code": "CEI101",
+        "name": "Engineering Graphics",
+        "instructor": "Shushobhit   Chaudhary,Avinash Kumar Singh",
+        "description": "comm, comm, 2, 1-0-3"
+    },
+    {
+        "code": "CEO303",
+        "name": "Construction Management",
+        "instructor": "Rahul  Bhartiya",
+        "description": "b.tech, cve, 6, 3-0-0"
+    },
+    {
+        "code": "CEO524",
+        "name": "Finite Element Method",
+        "instructor": "Sukanta   Chakraborty",
+        "description": "m.tech, cve, 2, 3-0-0"
+    },
+    {
+        "code": "CEO525",
+        "name": "Optimization Methods",
+        "instructor": "Pranesh  Roy",
+        "description": "b.tech, cve, 6, 3-0-0"
+    },
+    {
+        "code": "CEO526",
+        "name": "Geoinformatics for Civil Engineering",
+        "instructor": "Srinivas  Pasupuleti",
+        "description": "b.tech, cve, 8, 3-0-0"
+    },
+    {
+        "code": "CEO527",
+        "name": "Bridge Engineering",
+        "instructor": "Piyali  Sengupta",
+        "description": "b.tech, cve, 6, 3-0-0"
+    },
+    {
+        "code": "CEO529",
+        "name": "Blast Protection of Structures",
+        "instructor": "Satadru  Das Adhikary",
+        "description": "m.tech, cve, 4, 3-0-0"
+    },
+    {
+        "code": "CEO530",
+        "name": "Sustainable Engineering",
+        "instructor": "Sarat Kumar Das",
+        "description": "m.tech, cve, 4, 3-0-0"
+    },
+    {
+        "code": "CEO531",
+        "name": "Railway Geotechnics",
+        "instructor": "Sowmiya  Chawla",
+        "description": "m.tech, cve, 2, 3-0-0"
+    },
+    {
+        "code": "CHC206",
+        "name": "Chemical Engineering Thermodynamics",
+        "instructor": "A  Samanta",
+        "description": "b.tech, ce, 4, 3-0-0"
+    },
+    {
+        "code": "CHC207",
+        "name": "Principles of Mass Transfer",
+        "instructor": "Bidhan   Chandra",
+        "description": "b.tech, ce, 4, 3-1-0"
+    },
+    {
+        "code": "CHC208",
+        "name": "Chemical Process Technology",
+        "instructor": "Siddhartha  Sengupta,Suman  Dutta,Krishna Sandilya Durbha",
+        "description": "b.tech, ce, 4, 3-0-0"
+    },
+    {
+        "code": "CHC209",
+        "name": "Process Dynamics and Control",
+        "instructor": "Soumyajit Sen Gupta",
+        "description": "b.tech, ce, 4, 3-0-0"
+    },
+    {
+        "code": "CHC210",
+        "name": "Heat Transfer Lab",
+        "instructor": "Bidhan   Chandra,Aditya  Kumar",
+        "description": "b.tech, ce, 4, 0-0-2"
+    },
+    {
+        "code": "CHC211",
+        "name": "Process Control Lab",
+        "instructor": "Soumyajit Sen Gupta,A  Samanta",
+        "description": "b.tech, ce, 4, 0-0-3"
+    },
+    {
+        "code": "CHC306",
+        "name": "Chemical Process Equipment Design",
+        "instructor": "Lutukurthi D N V V Konda",
+        "description": "b.tech, ce, 6, 3-0-0"
+    },
+    {
+        "code": "CHC307",
+        "name": "Process Modelling and Simulation",
+        "instructor": "Vineet  Kumar",
+        "description": "b.tech, ce, 6, 3-0-0"
+    },
+    {
+        "code": "CHC308",
+        "name": "Chemical Process Equipment Design Lab",
+        "instructor": "Mahendra Naktuji Nandanwar,Lutukurthi D N V V Konda",
+        "description": "b.tech, ce, 6, 0-0-3"
+    },
+    {
+        "code": "CHC309",
+        "name": "Process Simulation Lab",
+        "instructor": "Sourav  Sengupta,Vineet  Kumar",
+        "description": "b.tech, ce, 6, 0-0-2"
+    },
+    {
+        "code": "CHC508",
+        "name": "Advanced Mass transfer",
+        "instructor": "Aditya  Kumar",
+        "description": "m.tech, ce, 2, 3-0-0"
+    },
+    {
+        "code": "CHC509",
+        "name": "Computational Fluid Dynamics",
+        "instructor": "Soubhik Kumar Bhaumik",
+        "description": "m.tech, ce, 2, 3-0-0"
+    },
+    {
+        "code": "CHC510",
+        "name": "Advanced Chemical Engineering Lab",
+        "instructor": "Aritra  Santra,Siddhartha  Sengupta",
+        "description": "m.tech, ce, 2, 0-0-3"
+    },
+    {
+        "code": "CHC511",
+        "name": "Term Paper and Presentation",
+        "instructor": "Paidinaidu  Paluri,Krishna Sandilya Durbha,Suman  Dutta",
+        "description": "m.tech, ce, 2, 0-0-2"
+    },
+    {
+        "code": "CHC518",
+        "name": "Research Methodology",
+        "instructor": "Sandip  Mandal",
+        "description": "jrf, ce, 2, 3-0-0"
+    },
+    {
+        "code": "CHC530",
+        "name": "Reaction Engineering",
+        "instructor": "Siddhartha  Sengupta",
+        "description": "m.tech, ccb, 2, 3-0-0"
+    },
+    {
+        "code": "CHC531",
+        "name": "Chemical Engineering Lab",
+        "instructor": "Suresh Kumar Yatirajula,Ejaz  Ahmad",
+        "description": "m.tech, ccb, 2, 0-0-3"
+    },
+    {
+        "code": "CHD402",
+        "name": "Polymers Science and Engineering",
+        "instructor": "Aritra  Santra",
+        "description": "b.tech, ce, 6, 3-0-0"
+    },
+    {
+        "code": "CHD404",
+        "name": "Bioprocess Technology",
+        "instructor": "Krishna Sandilya Durbha",
+        "description": "b.tech, ce, 8, 3-0-0"
+    },
+    {
+        "code": "CHD411",
+        "name": "Catalytic Reaction Engineering",
+        "instructor": "Siddhartha  Sengupta",
+        "description": "b.tech, ce, 8, 3-0-0"
+    },
+    {
+        "code": "CHD417",
+        "name": "Membrane Science and Engineering",
+        "instructor": "Suman  Dutta",
+        "description": "b.tech, ce, 8, 3-0-0"
+    },
+    {
+        "code": "CHD503",
+        "name": "Catalysts & Materials Characterization Techniques",
+        "instructor": "Ejaz  Ahmad",
+        "description": "m.tech, ce, 4, 3-0-0"
+    },
+    {
+        "code": "CHD504",
+        "name": "Process Optimization",
+        "instructor": "Suman  Dutta",
+        "description": "m.tech, ce, 2, 3-0-0"
+    },
+    {
+        "code": "CHD505",
+        "name": "Interfacial and Colloidal Phenomena",
+        "instructor": "Soubhik Kumar Bhaumik",
+        "description": "m.tech, ce, 2, 3-0-0"
+    },
+    {
+        "code": "CHD507",
+        "name": "Modelling & Simulation",
+        "instructor": "Sourav  Sengupta",
+        "description": "m.tech, ce, 4, 3-0-0"
+    },
+    {
+        "code": "CHE202",
+        "name": "Transport Phenomena",
+        "instructor": "Aritra  Santra",
+        "description": "b.tech, ce, 4, 3-0-0"
+    },
+    {
+        "code": "CHO301",
+        "name": "Petroleum Refining",
+        "instructor": "Paidinaidu  Paluri",
+        "description": "b.tech, ce, 6, 3-0-0"
+    },
+    {
+        "code": "CHO302",
+        "name": "Industrial Safety and Hazards Management",
+        "instructor": "Vineet  Kumar",
+        "description": "b.tech, ce, 6, 3-0-0"
+    },
+    {
+        "code": "CHO403",
+        "name": "Process Intensification",
+        "instructor": "Krishna Sandilya Durbha",
+        "description": "b.tech, ce, 8, 3-0-0"
+    },
+    {
+        "code": "CHO501",
+        "name": "Rheology",
+        "instructor": "Suresh Kumar Yatirajula",
+        "description": "m.tech, ce, 2, 3-0-0"
+    },
+    {
+        "code": "CHO503",
+        "name": "Introduction to Granular Mechanics",
+        "instructor": "Sandip  Mandal",
+        "description": "m.tech, ce, 2, 3-0-0"
+    },
+    {
+        "code": "CHO504",
+        "name": "Electrochemical Energy Science and Engineering",
+        "instructor": "Mahendra Naktuji Nandanwar",
+        "description": "m.tech, ce, 4, 3-0-0"
+    },
+    {
+        "code": "CSC206",
+        "name": "Algorithm Design & Analysis",
+        "instructor": "Subhrangsu  Mandal",
+        "description": "b.tech, cse, 4, 3-0-0"
+    },
+    {
+        "code": "CSC207",
+        "name": "Computer Architecture",
+        "instructor": "Tarachand  Amgoth",
+        "description": "b.tech, cse, 4, 3-0-0"
+    },
+    {
+        "code": "CSC208",
+        "name": "Theory of Computation",
+        "instructor": "Ayan  Das",
+        "description": "b.tech, cse, 4, 3-0-0"
+    },
+    {
+        "code": "CSC209",
+        "name": "Operating Systems",
+        "instructor": "Hari  Om",
+        "description": "b.tech, cse, 4, 3-0-0"
+    },
+    {
+        "code": "CSC210",
+        "name": "Algorithm Design & Analysis Lab",
+        "instructor": "Prasanta K. Jana",
+        "description": "b.tech, cse, 4, 0-0-2"
+    },
+    {
+        "code": "CSC211",
+        "name": "Operating Systems Lab",
+        "instructor": "Hari  Om",
+        "description": "b.tech, cse, 4, 0-0-2"
+    },
+    {
+        "code": "CSC305",
+        "name": "Computer Network",
+        "instructor": "Chiranjeev  Kumar",
+        "description": "b.tech, cse, 6, 3-0-0"
+    },
+    {
+        "code": "CSC306",
+        "name": "Software Engineering",
+        "instructor": "Saurabh  Srivastava",
+        "description": "b.tech, cse, 6, 3-0-0"
+    },
+    {
+        "code": "CSC307",
+        "name": "Computer Networks Lab",
+        "instructor": "Chiranjeev  Kumar",
+        "description": "b.tech, cse, 6, 0-0-2"
+    },
+    {
+        "code": "CSC308",
+        "name": "Software Engineering Lab",
+        "instructor": "Tanusree  Kaibartta",
+        "description": "b.tech, cse, 6, 0-0-2"
+    },
+    {
+        "code": "CSC508",
+        "name": "Computing Lab - I",
+        "instructor": "Pranav  Bisht",
+        "description": "m.tech, cse, 2, 0-0-2"
+    },
+    {
+        "code": "CSC509",
+        "name": "Computing Lab - II",
+        "instructor": "Gadadhar  Sahoo",
+        "description": "m.tech, cse, 2, 0-0-2"
+    },
+    {
+        "code": "CSC516",
+        "name": "Research Methodology",
+        "instructor": "Hari  Om",
+        "description": "jrf, cse, 2, 3-0-0"
+    },
+    {
+        "code": "CSD401",
+        "name": "Advanced Algorithms",
+        "instructor": "Subhrangsu  Mandal",
+        "description": "b.tech, cse, 8, 3-0-0"
+    },
+    {
+        "code": "CSD403",
+        "name": "Combinatorics and Graph Theory",
+        "instructor": "Pranav  Bisht",
+        "description": "b.tech, cse, 8, 3-0-0"
+    },
+    {
+        "code": "CSD404",
+        "name": "Computer Graphics",
+        "instructor": "Sushanta  Mukhopadhyay",
+        "description": "b.tech, cse, 8, 3-0-0"
+    },
+    {
+        "code": "CSD405",
+        "name": "Evolutionary Computation",
+        "instructor": "Annavarapu Chandra Sekhara Rao",
+        "description": "b.tech, cse, 8, 3-0-0"
+    },
+    {
+        "code": "CSD503",
+        "name": "Computational Number Theory",
+        "instructor": "Gosta Pada Biswas",
+        "description": "m.tech, cse, 4, 3-0-0"
+    },
+    {
+        "code": "CSD505",
+        "name": "Cryptography and Network Security",
+        "instructor": "Gosta Pada Biswas",
+        "description": "m.tech, cse, 2, 3-0-0"
+    },
+    {
+        "code": "CSD508",
+        "name": "Distributed Systems",
+        "instructor": "Dharavath  Ramesh",
+        "description": "b.tech, cse, 8, 3-0-0"
+    },
+    {
+        "code": "CSD509",
+        "name": "Image and Video Processing",
+        "instructor": "Soumen  Bag",
+        "description": "m.tech, cse, 2, 3-0-0"
+    },
+    {
+        "code": "CSD510",
+        "name": "Information Retrieval",
+        "instructor": "Ayan  Das",
+        "description": "b.tech, cse, 8, 3-0-0"
+    },
+    {
+        "code": "CSD513",
+        "name": "Internet of Things",
+        "instructor": "Tarachand  Amgoth",
+        "description": "m.tech, cse, 2, 3-0-0"
+    },
+    {
+        "code": "CSD516",
+        "name": "Optimization Techniques",
+        "instructor": "Tanusree  Kaibartta",
+        "description": "m.tech, cse, 2, 3-0-0"
+    },
+    {
+        "code": "CSD517",
+        "name": "Parallel Computing",
+        "instructor": "Prasanta K. Jana",
+        "description": "m.tech, cse, 2, 3-0-0"
+    },
+    {
+        "code": "CSD518",
+        "name": "Pattern Recognition",
+        "instructor": "Rajendra  Pamula",
+        "description": "m.tech, cse, 4, 3-0-0"
+    },
+    {
+        "code": "CSD521",
+        "name": "Wireless Networks",
+        "instructor": "Pranay Kumar Saha",
+        "description": "b.tech, cse, 8, 3-0-0"
+    },
+    {
+        "code": "CSE202",
+        "name": "Object Oriented Programming",
+        "instructor": "Gadadhar  Sahoo,Pranav  Bisht,Tanusree  Kaibartta",
+        "description": "b.tech, cse, 4, 3-0-0"
+    },
+    {
+        "code": "CSI101",
+        "name": "Computer Programming",
+        "instructor": "Pranay Kumar Saha,Monidipa  Das,Annavarapu Chandra Sekhara Rao,Haider  Banka",
+        "description": "comm, comm, 2, 2-1-0"
+    },
+    {
+        "code": "CSI102",
+        "name": "Computer Programming Lab",
+        "instructor": "Pranay Kumar Saha,Monidipa  Das,Annavarapu Chandra Sekhara Rao,Haider  Banka",
+        "description": "comm, comm, 2, 0-0-2"
+    },
+    {
+        "code": "CSO302",
+        "name": "Graph Theory",
+        "instructor": "Sushanta  Mukhopadhyay",
+        "description": "b.tech, cse, 6, 3-0-0"
+    },
+    {
+        "code": "CSO304",
+        "name": "Digital Image Processing",
+        "instructor": "Soumen  Bag",
+        "description": "b.tech, cse, 6, 3-0-0"
+    },
+    {
+        "code": "CSO501",
+        "name": "Principles of Artificial Intelligence",
+        "instructor": "Sachin  Tripathi",
+        "description": "m.tech, cse, 2, 3-0-0"
+    },
+    {
+        "code": "CSO502",
+        "name": "Data Analytics",
+        "instructor": "Gadadhar  Sahoo",
+        "description": "m.tech, cse, 4, 3-0-0"
+    },
+    {
+        "code": "CSO503",
+        "name": "Data Mining",
+        "instructor": "Rajendra  Pamula",
+        "description": "m.tech, cse, 2, 3-0-0"
+    },
+    {
+        "code": "CSO505",
+        "name": "Soft Computing",
+        "instructor": "Haider  Banka",
+        "description": "b.tech, cse, 8, 3-0-0"
+    },
+    {
+        "code": "CSO506",
+        "name": "Principles of Blockchain Technologies",
+        "instructor": "Arup Kumar Pal",
+        "description": "b.tech, cse, 6, 3-0-0"
+    },
+    {
+        "code": "CSO507",
+        "name": "Deep Learning",
+        "instructor": "Monidipa  Das",
+        "description": "m.tech, cse, 2, 3-0-0"
+    },
+    {
+        "code": "CSO508",
+        "name": "Building Software Systems",
+        "instructor": "Saurabh  Srivastava",
+        "description": "m.tech, cse, 2, 3-0-0"
+    },
+    {
+        "code": "CYC508",
+        "name": "Kinetics and Thermodynamics",
+        "instructor": "Sumanta Kumar Sahu",
+        "description": "m.sc, ccb, 2, 3-0-0"
+    },
+    {
+        "code": "CYC509",
+        "name": "Methods in Organic Synthesis",
+        "instructor": "Soumitra  Maity",
+        "description": "m.sc, ccb, 2, 3-0-0"
+    },
+    {
+        "code": "CYC510",
+        "name": "Organometallic Chemistry",
+        "instructor": "Chanchal  Haldar",
+        "description": "m.sc, ccb, 2, 3-0-0"
+    },
+    {
+        "code": "CYC511",
+        "name": "Group Theory & Electronic Spectroscopy",
+        "instructor": "Sumanta Kumar Padhi",
+        "description": "m.sc, ccb, 2, 3-1-0"
+    },
+    {
+        "code": "CYC512",
+        "name": "Physical Chemistry Lab - I",
+        "instructor": "Soumit  Chatterjee,Biswajit  Chowdhury",
+        "description": "m.sc, ccb, 2, 0-0-3"
+    },
+    {
+        "code": "CYC513",
+        "name": "Organic Chemistry Lab - II",
+        "instructor": "Soumitra  Maity,Somnath  Yadav",
+        "description": "m.sc, ccb, 2, 0-0-3"
+    },
+    {
+        "code": "CYC529",
+        "name": "Formulation/Manufacturing Lab",
+        "instructor": "Ganesh Chandra Nayak,Sumanta Kumar Sahu",
+        "description": "m.tech, ccb, 2, 0-0-3"
+    },
+    {
+        "code": "CYC540",
+        "name": "Research Methodology and Statistics",
+        "instructor": "Piyush  Mishra",
+        "description": "jrf, ccb, 2, 3-0-0"
+    },
+    {
+        "code": "CYD501",
+        "name": "Medicinal Chemistry",
+        "instructor": "Parthasarathi  Das",
+        "description": "m.sc, ccb, 4, 3-0-0"
+    },
+    {
+        "code": "CYD502",
+        "name": "Polymer Chemistry",
+        "instructor": "Sagar  Pal",
+        "description": "m.sc, ccb, 4, 3-0-0"
+    },
+    {
+        "code": "CYD505",
+        "name": "Asymmetric Synthesis",
+        "instructor": "Somnath  Yadav",
+        "description": "m.sc, ccb, 4, 3-0-0"
+    },
+    {
+        "code": "CYD506",
+        "name": "Computational Chemistry",
+        "instructor": "Niladri  Patra",
+        "description": "m.sc, ccb, 4, 3-0-0"
+    },
+    {
+        "code": "CYD512",
+        "name": "Modern Aspects of Catalysis and Surface Science",
+        "instructor": "Biswajit  Chowdhury",
+        "description": "m.sc, ccb, 4, 3-0-0"
+    },
+    {
+        "code": "CYD513",
+        "name": "Electroanalytical Methods",
+        "instructor": "Rashmi  Madhuri",
+        "description": "m.sc, ccb, 2, 3-0-0"
+    },
+    {
+        "code": "CYD518",
+        "name": "Metalloenzymes-Special Topics",
+        "instructor": "Rohith P John",
+        "description": "m.tech, ccb, 4, 3-0-0"
+    },
+    {
+        "code": "CYD520",
+        "name": "Advanced Fluorescence Spectroscopy",
+        "instructor": "Soumit  Chatterjee",
+        "description": "m.sc, ccb, 4, 3-0-0"
+    },
+    {
+        "code": "CYD524",
+        "name": "Basics of Chemical Biology",
+        "instructor": "Sourav Kumar Dey,Naga Rajiv Lakkaniga",
+        "description": "m.tech, ccb, 2, 3-0-0"
+    },
+    {
+        "code": "CYD528",
+        "name": "Modern Separation Techniques",
+        "instructor": "Devendra Deo Pathak",
+        "description": "m.tech, ccb, 4, 3-0-0"
+    },
+    {
+        "code": "CYD529",
+        "name": "Computer Aided Drug Discovery",
+        "instructor": "Madhulika  Gupta",
+        "description": "m.tech, ccb, 2, 3-0-0"
+    },
+    {
+        "code": "CYD530",
+        "name": "Pharmacovigilance and Regulatory Affairs",
+        "instructor": "Naga Rajiv Lakkaniga",
+        "description": "m.tech, ccb, 2, 3-0-0"
+    },
+    {
+        "code": "CYD531",
+        "name": "Biotechnology in Pharmaceutical Sciences",
+        "instructor": "Sourav Kumar Dey",
+        "description": "m.tech, ccb, 2, 3-0-0"
+    },
+    {
+        "code": "CYI101",
+        "name": "Chemistry",
+        "instructor": "Rohith P John,Hari Pada Nayek,Sourav Kumar Dey,Mahendra  Yadav,Udayabhanu  G,Swapan  Dey",
+        "description": "comm, comm, 2, 3-0-0"
+    },
+    {
+        "code": "CYI102",
+        "name": "Chemistry Lab",
+        "instructor": "Udayabhanu  G,Hari Pada Nayek,Ananthalakshmy  Sundararaman,Mahendra  Yadav,Naga Rajiv Lakkaniga,Rashmi  Madhuri,Chanchal  Haldar,Parthasarathi  Das,Sumanta Kumar Padhi,Devendra Deo Pathak,Sagar  Pal",
+        "description": "comm, comm, 2, 0-0-2"
+    },
+    {
+        "code": "CYO503",
+        "name": "Rechargeable Battery Science and Technology",
+        "instructor": "Ganesh Chandra Nayak",
+        "description": "m.sc, ccb, 2, 3-0-0"
+    },
+    {
+        "code": "ECC206",
+        "name": "Analog Circuits",
+        "instructor": "Shalu  Rani",
+        "description": "b.tech, ece, 4, 3-1-0"
+    },
+    {
+        "code": "ECC207",
+        "name": "Electromagnetic Theory",
+        "instructor": "Santanu  Dwari",
+        "description": "b.tech, ece, 4, 3-0-0"
+    },
+    {
+        "code": "ECC208",
+        "name": "Control Systems",
+        "instructor": "Devendra  Chack",
+        "description": "b.tech, ece, 4, 3-0-0"
+    },
+    {
+        "code": "ECC209",
+        "name": "Microprocessors & Microcontrollers",
+        "instructor": "Nirupama  Mandal",
+        "description": "b.tech, ece, 4, 3-0-0"
+    },
+    {
+        "code": "ECC210",
+        "name": "Electronic Devices and Circuits Lab",
+        "instructor": "Mukul Kumar Das,Rahul  Bhattacharya,Rajeev Kumar Ranjan,Sanjeev Kumar Raghuwanshi,Sajal Kr. Paul,Shalu  Rani",
+        "description": "b.tech, ece, 4, 0-0-3"
+    },
+    {
+        "code": "ECC211",
+        "name": "Microprocessor & Microcontroller Lab",
+        "instructor": "Mrinal  Sen,Kaushik  Mazumdar,Nirupama  Mandal,Jitendra  Kumar,Abhishek  Grover",
+        "description": "b.tech, ece, 4, 0-0-2"
+    },
+    {
+        "code": "ECC306",
+        "name": "Digital Communication",
+        "instructor": "Samrat  Mukhopadhyay",
+        "description": "b.tech, ece, 6, 3-0-0"
+    },
+    {
+        "code": "ECC307",
+        "name": "Microwave Engineering",
+        "instructor": "Prashant Kumar Varshney",
+        "description": "b.tech, ece, 6, 3-0-0"
+    },
+    {
+        "code": "ECC308",
+        "name": "Digital Communication Lab",
+        "instructor": "Aman  Sikri,Samrat  Mukhopadhyay,Himanshu Bhusan Mishra,Debjani  Mitra",
+        "description": "b.tech, ece, 6, 0-0-3"
+    },
+    {
+        "code": "ECC309",
+        "name": "Microwave Engineering Lab",
+        "instructor": "Jitendra  Kumar,Jeevesh  Kumar,Prashant Kumar Varshney,Santanu  Dwari",
+        "description": "b.tech, ece, 6, 0-0-2"
+    },
+    {
+        "code": "ECC507",
+        "name": "Electronics Engineering - I Lab",
+        "instructor": "Subindu  Kumar,Amitesh  Kumar,Sushrut  Das,Jaisingh  Thangaraj",
+        "description": "m.tech, ece, 2, 0-0-3"
+    },
+    {
+        "code": "ECC508",
+        "name": "Electronics Engineering - II Lab",
+        "instructor": "Manodipan  Sahoo,Ravi Kumar Gangwar,Devendra  Chack,Govind  Murmu",
+        "description": "m.tech, ece, 2, 0-0-3"
+    },
+    {
+        "code": "ECC581",
+        "name": "Research Methodology",
+        "instructor": "Sajal Kr. Paul",
+        "description": "jrf, ece, 2, 3-0-0"
+    },
+    {
+        "code": "ECD404",
+        "name": "Digital Image Processing",
+        "instructor": "Abhishek  Grover",
+        "description": "b.tech, ece, 8, 3-0-0"
+    },
+    {
+        "code": "ECD419",
+        "name": "Satellite Communication",
+        "instructor": "Subindu  Kumar",
+        "description": "b.tech, ece, 8, 3-0-0"
+    },
+    {
+        "code": "ECD500",
+        "name": "Advanced Signal Processing",
+        "instructor": "Himanshu Bhusan Mishra",
+        "description": "m.tech, ece, 2, 3-0-0"
+    },
+    {
+        "code": "ECD501",
+        "name": "Metamaterials and CRLH Transmission Lines",
+        "instructor": "Sushrut  Das,",
+        "description": "m.tech, ece, 2, 3-0-0"
+    },
+    {
+        "code": "ECD503",
+        "name": "Wireless Communication Systems",
+        "instructor": "Govind  Murmu",
+        "description": "m.tech, ece, 2, 3-0-0"
+    },
+    {
+        "code": "ECD504",
+        "name": "Computer Communication Networks",
+        "instructor": "Debjani  Mitra",
+        "description": "m.tech, ece, 2, 3-0-0"
+    },
+    {
+        "code": "ECD505",
+        "name": "CAD for VLSI",
+        "instructor": "Rajeev Kumar Ranjan",
+        "description": "m.tech, ece, 2, 3-0-0"
+    },
+    {
+        "code": "ECD510",
+        "name": "Quantum Computation",
+        "instructor": "Jitendra  Kumar",
+        "description": "m.tech, ece, 4, 3-0-0"
+    },
+    {
+        "code": "ECD514",
+        "name": "Photonic Sensors",
+        "instructor": "Amitesh  Kumar",
+        "description": "m.tech, ece, 2, 3-0-0"
+    },
+    {
+        "code": "ECD520",
+        "name": "Optoelectronic and Photonics Devices",
+        "instructor": "Mukul Kumar Das",
+        "description": "m.tech, ece, 2, 3-0-0"
+    },
+    {
+        "code": "ECD531",
+        "name": "Photonic Integrated Circuits",
+        "instructor": "Mrinal  Sen",
+        "description": "m.tech, ece, 2, 3-0-0"
+    },
+    {
+        "code": "ECD540",
+        "name": "Advanced Antenna Theory",
+        "instructor": "Ravi Kumar Gangwar",
+        "description": "m.tech, ece, 2, 3-0-0"
+    },
+    {
+        "code": "ECD541",
+        "name": "Microwave Measurements",
+        "instructor": "Ravi Kumar Gangwar,,Vivek   Sangwan",
+        "description": "m.tech, ece, 2, 3-0-0"
+    },
+    {
+        "code": "ECD560",
+        "name": "Analog IC Design",
+        "instructor": "Manodipan  Sahoo",
+        "description": "m.tech, ece, 2, 3-0-0"
+    },
+    {
+        "code": "ECD561",
+        "name": "ASIC Design",
+        "instructor": "Jaisingh  Thangaraj",
+        "description": "m.tech, ece, 4, 3-0-0"
+    },
+    {
+        "code": "ECD569",
+        "name": "MOS Device Physics and Modelling",
+        "instructor": "Kaushik  Mazumdar",
+        "description": "m.tech, ece, 2, 3-0-0"
+    },
+    {
+        "code": "ECE201",
+        "name": "Measurements and Instrumentations",
+        "instructor": "Subindu  Kumar",
+        "description": "b.tech, ece, 4, 3-0-0"
+    },
+    {
+        "code": "ECO301",
+        "name": "Microprocessor and its Application",
+        "instructor": "Ravi Kumar Gangwar,Puja   Kumari",
+        "description": "b.tech, ece, 6, 3-0-0"
+    },
+    {
+        "code": "ECO302",
+        "name": "Power Electronics",
+        "instructor": "Jitendra  Kumar",
+        "description": "b.tech, ece, 6, 3-0-0"
+    },
+    {
+        "code": "ECO402",
+        "name": "Optical Fiber Sensor",
+        "instructor": "Devendra  Chack, Akash   Srivastava",
+        "description": "b.tech, ece, 6, 3-0-0"
+    },
+    {
+        "code": "ECO500",
+        "name": "Wireless Sensor Networks",
+        "instructor": "Jitendra  Kumar",
+        "description": "b.tech, ece, 8, 3-0-0"
+    },
+    {
+        "code": "ECO506",
+        "name": "Machine Learning",
+        "instructor": "Aman  Sikri",
+        "description": "b.tech, ece, 8, 3-0-0"
+    },
+    {
+        "code": "ECO520",
+        "name": "Optical Networks",
+        "instructor": "Sanjeev Kumar Raghuwanshi",
+        "description": "m.tech, ece, 2, 3-0-0"
+    },
+    {
+        "code": "ECO542",
+        "name": "Advanced Microwave Measurement & Instrument",
+        "instructor": "Jeevesh  Kumar",
+        "description": "m.tech, ece, 4, 3-0-0"
+    },
+    {
+        "code": "ECO560",
+        "name": "Test and Verification of VLSI Circuits",
+        "instructor": "Rahul  Bhattacharya",
+        "description": "m.tech, ece, 2, 3-0-0"
+    },
+    {
+        "code": "EEC204",
+        "name": "Electrical Machines - I",
+        "instructor": "Paresh Kumar Nayak",
+        "description": "b.tech, ee, 4, 3-0-0"
+    },
+    {
+        "code": "EEC205",
+        "name": "Electrical Measurements",
+        "instructor": "Somnath  Pan",
+        "description": "b.tech, ee, 4, 3-0-0"
+    },
+    {
+        "code": "EEC206",
+        "name": "Control System Engineering",
+        "instructor": "Sanjoy  Mandal",
+        "description": "b.tech, ee, 4, 3-0-0"
+    },
+    {
+        "code": "EEC207",
+        "name": "Power System Engineering",
+        "instructor": "Gauri  Shankar",
+        "description": "b.tech, ee, 4, 3-0-0"
+    },
+    {
+        "code": "EEC273",
+        "name": "Control and Measurement lab",
+        "instructor": "Kishor Bhaskarrao Nandapurkar,Haswanth  Vundavilli,",
+        "description": "b.tech, ee, 4, 0-0-2"
+    },
+    {
+        "code": "EEC274",
+        "name": "Electrical Machines and Power lab",
+        "instructor": "Arijit  Baral,Vivekananda  Mukherjee",
+        "description": "b.tech, ee, 4, 0-0-2"
+    },
+    {
+        "code": "EEC311",
+        "name": "Power System Analysis and Control",
+        "instructor": "Shyam  A B",
+        "description": "b.tech, ee, 6, 3-0-0"
+    },
+    {
+        "code": "EEC312",
+        "name": "Electrical Drives and Applications",
+        "instructor": "Anirban  Ghoshal",
+        "description": "b.tech, ee, 6, 3-0-0"
+    },
+    {
+        "code": "EEC377",
+        "name": "Power and Switchgear Lab",
+        "instructor": "Soumyabrata  Barik,Vedantham Lakshmi Srinivas",
+        "description": "b.tech, ee, 6, 0-0-2"
+    },
+    {
+        "code": "EEC378",
+        "name": "Power Electronics and Drives lab",
+        "instructor": "Devara Vijaya Bhaskar,Ashok  Kumar",
+        "description": "b.tech, ee, 6, 0-0-2"
+    },
+    {
+        "code": "EEC501",
+        "name": "Power System Analysis",
+        "instructor": "Kalyan  Chatterjee",
+        "description": "m.tech, ee, 2, 3-0-0"
+    },
+    {
+        "code": "EEC508",
+        "name": "Power Electronic Converters",
+        "instructor": "Devara Vijaya Bhaskar",
+        "description": "m.tech, ee, 2, 3-0-0"
+    },
+    {
+        "code": "EEC513",
+        "name": "Advanced power System Simulation Lab",
+        "instructor": "Biplab  Bhattacharyya",
+        "description": "m.tech, ee, 2, 0-0-3"
+    },
+    {
+        "code": "EEC514",
+        "name": "Advanced Power System Protection Lab",
+        "instructor": "Shyam  A B",
+        "description": "m.tech, ee, 2, 0-0-3"
+    },
+    {
+        "code": "EEC550",
+        "name": "Research Methodology and Statistics for Electrical Engineering",
+        "instructor": "Vivekananda  Mukherjee",
+        "description": "jrf, ee, 2, 3-0-0"
+    },
+    {
+        "code": "EED405",
+        "name": "Instrumentation",
+        "instructor": "Haswanth  Vundavilli",
+        "description": "b.tech, ee, 8, 3-0-0"
+    },
+    {
+        "code": "EED406",
+        "name": "Special Purpose Electric Machines and Drives",
+        "instructor": "Sukanta  Das",
+        "description": "b.tech, ee, 8, 3-0-0"
+    },
+    {
+        "code": "EED501",
+        "name": "Design of Power Converters",
+        "instructor": "Kartick Chandra Jana",
+        "description": "m.tech, ee, 4, 3-0-0"
+    },
+    {
+        "code": "EED502",
+        "name": "Advanced Machine Drives",
+        "instructor": "Nitai  Pal",
+        "description": "m.tech, ee, 4, 3-0-0"
+    },
+    {
+        "code": "EED504",
+        "name": "Wireless Power Transfer",
+        "instructor": "Pradip Kumar Sadhu",
+        "description": "m.tech, ee, 2, 3-0-0"
+    },
+    {
+        "code": "EED505",
+        "name": "Power Electronics for Renewable Energy Systems",
+        "instructor": "Arijit  Baral,Tanmoy  Maity",
+        "description": "b.tech, ee, 6, 3-0-0"
+    },
+    {
+        "code": "EED511",
+        "name": "Power System Dynamics",
+        "instructor": "Soumyabrata  Barik",
+        "description": "b.tech, ee, 8, 3-0-0"
+    },
+    {
+        "code": "EED513",
+        "name": "Power Quality",
+        "instructor": "Ashok  Kumar",
+        "description": "b.tech, ee, 8, 3-0-0"
+    },
+    {
+        "code": "EEE201",
+        "name": "Applied Electrical Engineering",
+        "instructor": "Tanmoy  Maity",
+        "description": "b.tech, ee, 4, 3-0-0"
+    },
+    {
+        "code": "EEO301",
+        "name": "Microprocessor & Microcontroller",
+        "instructor": "Biplab  Bhattacharyya",
+        "description": "b.tech, ee, 6, 3-0-0"
+    },
+    {
+        "code": "EEO302",
+        "name": "Industrial Utilization of Electrical Power",
+        "instructor": "Bhukya Krishna Naick",
+        "description": "b.tech, ee, 6, 3-0-0"
+    },
+    {
+        "code": "EEO501",
+        "name": "Smart Grid Technology",
+        "instructor": "Dushyant  Sharma",
+        "description": "m.tech, ee, 2, 3-0-0"
+    },
+    {
+        "code": "EEO503",
+        "name": "Electric & Hybrid Electric Vehicles",
+        "instructor": "Vedantham Lakshmi Srinivas",
+        "description": "m.tech, ee, 2, 3-0-0"
+    },
+    {
+        "code": "EEO504",
+        "name": "Condition Monitoring of Electrical Machines",
+        "instructor": "Arijit  Baral",
+        "description": "b.tech, ee, 8, 3-0-0"
+    },
+    {
+        "code": "EEO505",
+        "name": "Modern Sensors and Signal Conditioning Circuits",
+        "instructor": "Kishor Bhaskarrao Nandapurkar",
+        "description": "b.tech, ee, 8, 3-0-0"
+    },
+    {
+        "code": "ESC204",
+        "name": "Geology and Land use Planning",
+        "instructor": "Prasoon Kumar Singh",
+        "description": "b.tech, ese, 4, 3-0-0"
+    },
+    {
+        "code": "ESC205",
+        "name": "Introduction Ecology and Environmental Microbiology",
+        "instructor": "Subodh Kumar Maiti",
+        "description": "b.tech, ese, 4, 3-0-0"
+    },
+    {
+        "code": "ESC206",
+        "name": "Environmental Policy and Legislation",
+        "instructor": "Anshumali",
+        "description": "b.tech, ese, 4, 3-0-0"
+    },
+    {
+        "code": "ESC207",
+        "name": "Air Pollution Control",
+        "instructor": "Manish Kumar Jain",
+        "description": "b.tech, ese, 4, 3-0-0"
+    },
+    {
+        "code": "ESC253",
+        "name": "Geology  Practical",
+        "instructor": "Prasoon Kumar Singh",
+        "description": "b.tech, ese, 4, 0-0-2"
+    },
+    {
+        "code": "ESC254",
+        "name": "Soil  and Environmental Microbiology Practical",
+        "instructor": "Subodh Kumar Maiti",
+        "description": "b.tech, ese, 4, 0-0-2"
+    },
+    {
+        "code": "ESC311",
+        "name": "Solid Waste Management",
+        "instructor": "Madhumita  Patel",
+        "description": "b.tech, ese, 6, 3-0-0"
+    },
+    {
+        "code": "ESC312",
+        "name": "Geoinformatics",
+        "instructor": "Sukha Ranjan Samadder",
+        "description": "b.tech, ese, 6, 3-0-0"
+    },
+    {
+        "code": "ESC357",
+        "name": "Solid Waste Management Practical",
+        "instructor": "Madhumita  Patel",
+        "description": "b.tech, ese, 6, 0-0-2"
+    },
+    {
+        "code": "ESC358",
+        "name": "Geoinformatics Practical",
+        "instructor": "Sukha Ranjan Samadder",
+        "description": "b.tech, ese, 6, 0-0-2"
+    },
+    {
+        "code": "ESC506",
+        "name": "Environmental Laws and Impact Assessment",
+        "instructor": "Saravanan  Pichiah",
+        "description": "m.tech, ese, 2, 3-0-0"
+    },
+    {
+        "code": "ESC507",
+        "name": "Municipal Solid Waste Management",
+        "instructor": "Vipin  Kumar",
+        "description": "m.tech, ese, 2, 3-0-0"
+    },
+    {
+        "code": "ESC523",
+        "name": "Water and Wastewater Engineering Practical",
+        "instructor": "Sheeja  Jagadevan",
+        "description": "m.tech, ese, 2, 0-0-3"
+    },
+    {
+        "code": "ESC524",
+        "name": "Soil and Microbiology Practical",
+        "instructor": "Vipin  Kumar",
+        "description": "m.tech, ese, 2, 0-0-3"
+    },
+    {
+        "code": "ESC526",
+        "name": "Research Methodology",
+        "instructor": "Saifi  Izhar",
+        "description": "jrf, ese, 2, 3-0-0"
+    },
+    {
+        "code": "ESD402",
+        "name": "Industrial Waste Water Engineering",
+        "instructor": "Sunil Kumar Gupta",
+        "description": "b.tech, ese, 8, 3-0-0"
+    },
+    {
+        "code": "ESD404",
+        "name": "Water Resource Planning and Management",
+        "instructor": "Tinesh  Pathania",
+        "description": "b.tech, ese, 6, 3-0-0"
+    },
+    {
+        "code": "ESD406",
+        "name": "Environmental Nano Technology",
+        "instructor": "Saravanan  Pichiah",
+        "description": "b.tech, ese, 8, 3-0-0"
+    },
+    {
+        "code": "ESD503",
+        "name": "Environmental Modelling",
+        "instructor": "Alok  Sinha",
+        "description": "b.tech, ese, 8, 3-0-0"
+    },
+    {
+        "code": "ESD505",
+        "name": "Advanced Water and Wastewater Treatment",
+        "instructor": "Brijesh Kumar Mishra",
+        "description": "m.tech, ese, 2, 3-0-0"
+    },
+    {
+        "code": "ESD506",
+        "name": "Biomedical and Hazardous Waste Management",
+        "instructor": "Sunil Kumar Gupta",
+        "description": "m.tech, ese, 4, 3-0-0"
+    },
+    {
+        "code": "ESD508",
+        "name": "Social Impact Assessment and R&R",
+        "instructor": "Biswajit  Paul,Anshumali",
+        "description": "b.tech, ese, 6, 3-0-0"
+    },
+    {
+        "code": "ESD509",
+        "name": "Air and Noise Pollution Control",
+        "instructor": "Manish Kumar Jain",
+        "description": "m.tech, ese, 4, 3-0-0"
+    },
+    {
+        "code": "ESD512",
+        "name": "Groundwater Contaminant Transport",
+        "instructor": "Tinesh  Pathania",
+        "description": "m.tech, ese, 2, 3-0-0"
+    },
+    {
+        "code": "ESD513",
+        "name": "Energy Auditing and Management",
+        "instructor": "Madhumita  Patel",
+        "description": "b.tech, ese, 6, 3-0-0"
+    },
+    {
+        "code": "ESE202",
+        "name": "Atmospheric  Science and Climate Change",
+        "instructor": "Suresh Pandian  E",
+        "description": "b.tech, ese, 4, 3-0-0"
+    },
+    {
+        "code": "ESI101",
+        "name": "Environmental Sciences",
+        "instructor": "Alok  Sinha,Brijesh Kumar Mishra,Vittal  H,Riya  Dutta",
+        "description": "comm, comm, 2, 2-0-0"
+    },
+    {
+        "code": "ESO301",
+        "name": "Applied Statistics for Environmental Engineering",
+        "instructor": "Riya  Dutta",
+        "description": "b.tech, ese, 6, 3-0-0"
+    },
+    {
+        "code": "ESO501",
+        "name": "Environmental Management System and Auditing",
+        "instructor": "Biswajit  Paul",
+        "description": "m.tech, ese, 2, 3-0-0"
+    },
+    {
+        "code": "ESO502",
+        "name": "Environmental Aspects of Industries",
+        "instructor": "Sheeja  Jagadevan",
+        "description": "m.tech, ese, 2, 3-0-0"
+    },
+    {
+        "code": "ESO505",
+        "name": "Climate Change and Modelling",
+        "instructor": "Vittal  H",
+        "description": "b.tech, ese, 8, 3-0-0"
+    },
+    {
+        "code": "FMC204",
+        "name": "Electrochemistry and Corrosion",
+        "instructor": "Rahul  Kumar Agrawal",
+        "description": "b.tech, fme, 4, 3-0-0"
+    },
+    {
+        "code": "FMC205",
+        "name": "Thermodynamics and Kinetics",
+        "instructor": "Mantripragada Vishnu Teja",
+        "description": "b.tech, fme, 4, 3-0-0"
+    },
+    {
+        "code": "FMC206",
+        "name": "Phase Transformation and Heat Treatment",
+        "instructor": "Rahul M R",
+        "description": "b.tech, fme, 4, 3-0-0"
+    },
+    {
+        "code": "FMC207",
+        "name": "Fine Particle Processing for Coal and Minerals",
+        "instructor": "Shubhi  Gupta,Anand  Anupam",
+        "description": "b.tech, fme, 4, 3-0-0"
+    },
+    {
+        "code": "FMC253",
+        "name": "Fine Particle Processing Laboratory",
+        "instructor": "Anand  Anupam",
+        "description": "b.tech, fme, 4, 0-0-2"
+    },
+    {
+        "code": "FMC254",
+        "name": "Introduction to Fuel Technology Laboratory",
+        "instructor": "Nitesh  Kumar           Sahu,Shalini  Gautam",
+        "description": "b.tech, fme, 4, 0-0-2"
+    },
+    {
+        "code": "FMC303",
+        "name": "Mechanical Metallurgy",
+        "instructor": "Avanish  Kumar",
+        "description": "b.tech, fme, 6, 3-0-0"
+    },
+    {
+        "code": "FMC304",
+        "name": "Coal and Mineral Processing Plant Design",
+        "instructor": "Sumantra  Bhattacharya",
+        "description": "b.tech, fme, 6, 3-0-0"
+    },
+    {
+        "code": "FMC305",
+        "name": "Coal and Mineral Processing Plant Design Laboratory",
+        "instructor": "Pankaj Kumar Jain",
+        "description": "b.tech, fme, 6, 0-0-2"
+    },
+    {
+        "code": "FMC352",
+        "name": "Heat Treatment and Mechanical Metallurgy Laboratory",
+        "instructor": "Avanish  Kumar",
+        "description": "b.tech, fme, 6, 0-0-3"
+    },
+    {
+        "code": "FMC553",
+        "name": "Fuel Technology Laboratory",
+        "instructor": "Shubhi  Gupta,Barun Kumar Nandi",
+        "description": "m.tech, fme, 2, 0-0-2"
+    },
+    {
+        "code": "FMC556",
+        "name": "Materials Characterization Laboratory",
+        "instructor": "Madhumanti  Bhattacharyya",
+        "description": "m.tech, fme, 2, 0-0-3"
+    },
+    {
+        "code": "FMD462",
+        "name": "Process Control and Plant Layout",
+        "instructor": "Anand  Anupam",
+        "description": "b.tech, fme, 8, 3-0-0"
+    },
+    {
+        "code": "FMD463",
+        "name": "Non Ferrous Extractive Metallurgy\u00a0",
+        "instructor": "Aarti  Kumari",
+        "description": "b.tech, fme, 6, 3-0-0"
+    },
+    {
+        "code": "FMD464",
+        "name": "Mineral Policy and Economics",
+        "instructor": "Shravan  Kumar",
+        "description": "b.tech, fme, 6, 3-0-0"
+    },
+    {
+        "code": "FMD522",
+        "name": "Coal Preparation",
+        "instructor": "Nikkam  Suresh",
+        "description": "b.tech, fme, 8, 3-0-0"
+    },
+    {
+        "code": "FMD525",
+        "name": "Iron and Steel Making",
+        "instructor": "Shatrughan  Soren",
+        "description": "m.tech, fme, 2, 3-0-0"
+    },
+    {
+        "code": "FMD528",
+        "name": "Power Plant Engineering",
+        "instructor": "Nitesh  Kumar           Sahu",
+        "description": "m.tech, fme, 2, 3-0-0"
+    },
+    {
+        "code": "FMD530",
+        "name": "Biofuels",
+        "instructor": "Rajasekhar Reddy Busigari",
+        "description": "b.tech, fme, 8, 3-0-0"
+    },
+    {
+        "code": "FMD531",
+        "name": "Alternate Energy Systems",
+        "instructor": "Barun Kumar Nandi",
+        "description": "m.tech, fme, 2, 3-0-0"
+    },
+    {
+        "code": "FMD534",
+        "name": "Metal Forming Technology",
+        "instructor": "Rahul M R",
+        "description": "m.tech, fme, 4, 3-0-0"
+    },
+    {
+        "code": "FMD536",
+        "name": "Surface Engineering",
+        "instructor": "Kesavan  Ravi",
+        "description": "b.tech, fme, 8, 3-0-0"
+    },
+    {
+        "code": "FMD540",
+        "name": "Size Enlargement Processes",
+        "instructor": "Raj Kumar Dishwar",
+        "description": "m.tech, fme, 2, 3-0-0"
+    },
+    {
+        "code": "FMD541",
+        "name": "Processing Equipment Selection",
+        "instructor": "Pankaj Kumar Jain",
+        "description": "m.tech, fme, 2, 3-0-0"
+    },
+    {
+        "code": "FME222",
+        "name": "Introduction to Fuel Technology",
+        "instructor": "Shalini  Gautam",
+        "description": "b.tech, fme, 4, 3-0-0"
+    },
+    {
+        "code": "FMO431",
+        "name": "Elements of Mineral Engineering",
+        "instructor": "Pankaj Kumar Jain",
+        "description": "b.tech, fme, 6, 3-0-0"
+    },
+    {
+        "code": "FMO541",
+        "name": "Characterization of Materials",
+        "instructor": "Madhumanti  Bhattacharyya",
+        "description": "m.tech, fme, 4, 3-0-0"
+    },
+    {
+        "code": "GLC205",
+        "name": "Introduction to Petrology",
+        "instructor": "Joseph Rohan D'souza",
+        "description": "int.m.tech, agl, 4, 3-0-0"
+    },
+    {
+        "code": "GLC206",
+        "name": "Introduction to Stratigraphy and Paleontology",
+        "instructor": "Ajoy Kumar Bhaumik",
+        "description": "int.m.tech, agl, 4, 3-0-0"
+    },
+    {
+        "code": "GLC207",
+        "name": "Descriptive Mineralogy",
+        "instructor": "Alik Sundar Majumdar",
+        "description": "int.m.tech, agl, 4, 3-0-0"
+    },
+    {
+        "code": "GLC208",
+        "name": "Economic Geology and Indian Mineral Deposits",
+        "instructor": "A S Venkatesh",
+        "description": "int.m.tech, agl, 4, 3-0-0"
+    },
+    {
+        "code": "GLC209",
+        "name": "Petrology Practical",
+        "instructor": "Joseph Rohan D'souza",
+        "description": "int.m.tech, agl, 4, 0-0-2"
+    },
+    {
+        "code": "GLC210",
+        "name": "Economic Geology Practical",
+        "instructor": "A S Venkatesh",
+        "description": "int.m.tech, agl, 4, 0-0-2"
+    },
+    {
+        "code": "GLC509",
+        "name": "Igneous Petrology",
+        "instructor": "R  Anand",
+        "description": "int.m.tech, agl, 6, 3-0-0"
+    },
+    {
+        "code": "GLC509",
+        "name": "Igneous Petrology",
+        "instructor": "R  Anand",
+        "description": "m.sc.tech, agl, 2, 3-0-0"
+    },
+    {
+        "code": "GLC510",
+        "name": "Metamorphic Petrology",
+        "instructor": "Upama  Dutta",
+        "description": "int.m.tech, agl, 6, 3-0-0"
+    },
+    {
+        "code": "GLC511",
+        "name": "Applied Sedimentology",
+        "instructor": "Udita  Bansal",
+        "description": "m.sc.tech, agl, 2, 3-0-0"
+    },
+    {
+        "code": "GLC512",
+        "name": "Petroleum Geology",
+        "instructor": "Shushanta  Sarangi",
+        "description": "m.sc.tech, agl, 2, 3-0-0"
+    },
+    {
+        "code": "GLC512",
+        "name": "Petroleum Geology",
+        "instructor": "Shushanta  Sarangi",
+        "description": "b.tech, pe, 4, 3-0-0"
+    },
+    {
+        "code": "GLC513",
+        "name": "Coal Geology",
+        "instructor": "A K Varma",
+        "description": "int.m.tech, agl, 8, 3-0-0"
+    },
+    {
+        "code": "GLC513",
+        "name": "Coal Geology",
+        "instructor": "A K Varma",
+        "description": "m.sc.tech, agl, 2, 3-0-0"
+    },
+    {
+        "code": "GLC514",
+        "name": "Igneous and Metamorphic Petrology Practical",
+        "instructor": "R  Anand,Upama  Dutta",
+        "description": "int.m.tech, agl, 6, 0-0-3"
+    },
+    {
+        "code": "GLC514",
+        "name": "Igneous and Metamorphic Petrology Practical",
+        "instructor": "R  Anand,Upama  Dutta",
+        "description": "m.sc.tech, agl, 2, 0-0-3"
+    },
+    {
+        "code": "GLC515",
+        "name": "Sedimentology and Petroleum Geology Practical",
+        "instructor": "Udita  Bansal,Shushanta  Sarangi",
+        "description": "int.m.tech, agl, 6, 0-0-3"
+    },
+    {
+        "code": "GLC515",
+        "name": "Sedimentology and Petroleum Geology Practical",
+        "instructor": "Udita  Bansal,Shushanta  Sarangi",
+        "description": "m.sc.tech, agl, 2, 0-0-3"
+    },
+    {
+        "code": "GLC516",
+        "name": "Coal Geology Practical",
+        "instructor": "A K Varma",
+        "description": "int.m.tech, agl, 8, 0-0-2"
+    },
+    {
+        "code": "GLC516",
+        "name": "Coal Geology Practical",
+        "instructor": "A K Varma",
+        "description": "m.sc.tech, agl, 2, 0-0-2"
+    },
+    {
+        "code": "GLC526",
+        "name": "Ore Geology",
+        "instructor": "Sahendra  Singh",
+        "description": "int.m.tech, agl, 8, 3-0-0"
+    },
+    {
+        "code": "GLC526",
+        "name": "Ore Geology",
+        "instructor": "Sahendra  Singh",
+        "description": "m.sc.tech, agl, 4, 3-0-0"
+    },
+    {
+        "code": "GLC527",
+        "name": "Exploration Geology and Mineral Economics",
+        "instructor": "Prabodha Ranjan Sahoo",
+        "description": "m.sc.tech, agl, 4, 3-0-0"
+    },
+    {
+        "code": "GLC533",
+        "name": "Ore Geology Practical",
+        "instructor": "Sahendra  Singh",
+        "description": "int.m.tech, agl, 8, 0-0-2"
+    },
+    {
+        "code": "GLC533",
+        "name": "Ore Geology Practical",
+        "instructor": "Sahendra  Singh",
+        "description": "m.sc.tech, agl, 4, 0-0-2"
+    },
+    {
+        "code": "GLC534",
+        "name": "Exploration Geology Practical",
+        "instructor": "Prabodha Ranjan Sahoo",
+        "description": "m.sc.tech, agl, 4, 0-0-2"
+    },
+    {
+        "code": "GLC591",
+        "name": "Research Methodology",
+        "instructor": "Ashutosh  Tripathy",
+        "description": "jrf, agl, 2, 3-0-0"
+    },
+    {
+        "code": "GLD501",
+        "name": "Essentials of Mineral Geostatistics",
+        "instructor": "B C Sarkar",
+        "description": "jrf, agl, 2, 3-0-0"
+    },
+    {
+        "code": "GLD528",
+        "name": "Geotechnical Engineering",
+        "instructor": "Rajendra Kumar Dubey",
+        "description": "int.m.tech, agl, 8, 3-0-0"
+    },
+    {
+        "code": "GLD530",
+        "name": "Geodynamics",
+        "instructor": "Joseph Rohan D'souza",
+        "description": "int.m.tech, agl, 6, 3-0-0"
+    },
+    {
+        "code": "GLD531",
+        "name": "Sequence Stratigraphy and Basin Analysis",
+        "instructor": "Udita  Bansal",
+        "description": "m.sc.tech, agl, 4, 3-0-0"
+    },
+    {
+        "code": "GLD540",
+        "name": "Geomorphology",
+        "instructor": "Mrinal Kanti Mukherjee",
+        "description": "int.m.tech, agl, 6, 3-0-0"
+    },
+    {
+        "code": "GLD544",
+        "name": "Kinematics of Rock Deformation",
+        "instructor": "Mrinal Kanti Mukherjee",
+        "description": "m.sc.tech, agl, 4, 3-0-0"
+    },
+    {
+        "code": "GLD551",
+        "name": "Elements of Rock Engineering",
+        "instructor": "Kripamoy  Sarkar",
+        "description": "int.m.tech, agl, 10, 3-0-0"
+    },
+    {
+        "code": "GLD571",
+        "name": "Petroleum Exploration and Micropalaeontology",
+        "instructor": "Ajoy Kumar Bhaumik",
+        "description": "int.m.tech, agl, 8, 3-0-0"
+    },
+    {
+        "code": "GLD575",
+        "name": "Modern Instrumental Methods in Exploration Geosciences",
+        "instructor": "Pranab  Das",
+        "description": "m.sc.tech, agl, 6, 3-0-0"
+    },
+    {
+        "code": "GLE202",
+        "name": "Resource Geology",
+        "instructor": "Ashutosh  Tripathy",
+        "description": "int.m.tech, agl, 4, 3-0-0"
+    },
+    {
+        "code": "GLI101",
+        "name": "Earth Sciences",
+        "instructor": "Ashutosh  Tripathy,Upama  Dutta,Kripamoy  Sarkar,Alik Sundar Majumdar",
+        "description": "comm, comm, 2, 2-0-0"
+    },
+    {
+        "code": "GLO501",
+        "name": "Image Processing and Data Analysis",
+        "instructor": "Anup Krishna Prasad",
+        "description": "m.sc.tech, agl, 6, 3-0-0"
+    },
+    {
+        "code": "GLO542",
+        "name": "Remote Sensing and GIS",
+        "instructor": "Anup Krishna Prasad",
+        "description": "m.sc.tech, agl, 4, 3-0-0"
+    },
+    {
+        "code": "GLO545",
+        "name": "Radiogenic and Stable Isotope Geology",
+        "instructor": "R  Anand",
+        "description": "int.m.tech, agl, 8, 3-0-0"
+    },
+    {
+        "code": "GPC205",
+        "name": "Oceanography",
+        "instructor": "Anil Kumar Chaubey",
+        "description": "int.m.tech, agp, 4, 3-0-0"
+    },
+    {
+        "code": "GPC206",
+        "name": "Mathematical Geophysics",
+        "instructor": "Swarandeep  Sahoo",
+        "description": "int.m.tech, agp, 4, 3-1-0"
+    },
+    {
+        "code": "GPC207",
+        "name": "Radiometric Method",
+        "instructor": "Niptika  Jana",
+        "description": "int.m.tech, agp, 4, 3-0-0"
+    },
+    {
+        "code": "GPC208",
+        "name": "Radiometric Method Practical",
+        "instructor": "Giri  Yellalacheruvu",
+        "description": "int.m.tech, agp, 4, 0-0-2"
+    },
+    {
+        "code": "GPC508",
+        "name": "Earthquake Seismology",
+        "instructor": "Niptika  Jana",
+        "description": "int.m.tech, agp, 6, 3-0-0"
+    },
+    {
+        "code": "GPC508",
+        "name": "Earthquake Seismology",
+        "instructor": "Niptika  Jana",
+        "description": "m.sc.tech, agp, 2, 3-0-0"
+    },
+    {
+        "code": "GPC509",
+        "name": "Geoelectrical Method",
+        "instructor": "Upendra K. Singh",
+        "description": "int.m.tech, agp, 6, 3-0-0"
+    },
+    {
+        "code": "GPC509",
+        "name": "Geoelectrical Method",
+        "instructor": "Upendra K. Singh",
+        "description": "m.sc.tech, agp, 2, 3-0-0"
+    },
+    {
+        "code": "GPC510",
+        "name": "Well Logging",
+        "instructor": "Partha  Pratim Mandal",
+        "description": "int.m.tech, agp, 6, 3-0-0"
+    },
+    {
+        "code": "GPC510",
+        "name": "Well Logging",
+        "instructor": "Partha  Pratim Mandal",
+        "description": "m.sc.tech, agp, 2, 3-0-0"
+    },
+    {
+        "code": "GPC511",
+        "name": "Seismic Data Acquisition",
+        "instructor": "Saurabh Datta Gupta",
+        "description": "int.m.tech, agp, 6, 3-0-0"
+    },
+    {
+        "code": "GPC511",
+        "name": "Seismic Data Acquisition",
+        "instructor": "Saurabh Datta Gupta",
+        "description": "m.sc.tech, agp, 2, 3-0-0"
+    },
+    {
+        "code": "GPC512",
+        "name": "Seismic Data Acquisition Practical",
+        "instructor": "Saurabh Datta Gupta",
+        "description": "int.m.tech, agp, 6, 0-0-2"
+    },
+    {
+        "code": "GPC512",
+        "name": "Seismic Data Acquisition Practical",
+        "instructor": "Saurabh Datta Gupta",
+        "description": "m.sc.tech, agp, 2, 0-0-2"
+    },
+    {
+        "code": "GPC513",
+        "name": "Geoelectrical Methods Practical",
+        "instructor": "Upendra K. Singh",
+        "description": "int.m.tech, agp, 6, 0-0-2"
+    },
+    {
+        "code": "GPC513",
+        "name": "Geoelectrical Methods Practical",
+        "instructor": "Upendra K. Singh",
+        "description": "m.sc.tech, agp, 2, 0-0-2"
+    },
+    {
+        "code": "GPC515",
+        "name": "Earthquake Seismology and Well Logging Practical",
+        "instructor": "Prosanta Kumar Khan,Partha  Pratim Mandal",
+        "description": "int.m.tech, agp, 6, 0-0-2"
+    },
+    {
+        "code": "GPC515",
+        "name": "Earthquake Seismology and Well Logging Practical",
+        "instructor": "Prosanta Kumar Khan,Partha  Pratim Mandal",
+        "description": "m.sc.tech, agp, 2, 0-0-2"
+    },
+    {
+        "code": "GPC520",
+        "name": "Magnetic Method",
+        "instructor": "Giri  Yellalacheruvu",
+        "description": "int.m.tech, agp, 8, 3-0-0"
+    },
+    {
+        "code": "GPC520",
+        "name": "Magnetic Method",
+        "instructor": "Giri  Yellalacheruvu",
+        "description": "m.sc.tech, agp, 4, 3-0-0"
+    },
+    {
+        "code": "GPC521",
+        "name": "Geoelectromagnetic Method",
+        "instructor": "Arun  Singh",
+        "description": "int.m.tech, agp, 8, 3-0-0"
+    },
+    {
+        "code": "GPC521",
+        "name": "Geoelectromagnetic Method",
+        "instructor": "Arun  Singh",
+        "description": "m.sc.tech, agp, 4, 3-0-0"
+    },
+    {
+        "code": "GPC522",
+        "name": "Magnetic Method Practical",
+        "instructor": "Giri  Yellalacheruvu",
+        "description": "int.m.tech, agp, 8, 0-0-2"
+    },
+    {
+        "code": "GPC522",
+        "name": "Magnetic Method Practical",
+        "instructor": "Giri  Yellalacheruvu",
+        "description": "m.sc.tech, agp, 4, 0-0-2"
+    },
+    {
+        "code": "GPC523",
+        "name": "Geoelectromagnetic Method Practical",
+        "instructor": "Arun  Singh",
+        "description": "int.m.tech, agp, 8, 0-0-2"
+    },
+    {
+        "code": "GPC523",
+        "name": "Geoelectromagnetic Method Practical",
+        "instructor": "Arun  Singh",
+        "description": "m.sc.tech, agp, 4, 0-0-2"
+    },
+    {
+        "code": "GPC537",
+        "name": "Remote Sensing: Principles and Data Acquisition System",
+        "instructor": "Sanjit Kumar Pal",
+        "description": "m.tech, agp, 2, 3-0-0"
+    },
+    {
+        "code": "GPC538",
+        "name": "Advanced Numerical Methods",
+        "instructor": "Swarandeep  Sahoo",
+        "description": "m.tech, agp, 2, 3-0-0"
+    },
+    {
+        "code": "GPC539",
+        "name": "Remote Sensing: Principles and Data Acquisition System Practical",
+        "instructor": "Sanjit Kumar Pal",
+        "description": "m.tech, agp, 2, 0-0-3"
+    },
+    {
+        "code": "GPC540",
+        "name": "Advanced Numerical Methods Practical",
+        "instructor": "Swarandeep  Sahoo",
+        "description": "m.tech, agp, 2, 0-0-3"
+    },
+    {
+        "code": "GPC555",
+        "name": "Research Methodology and Statistics",
+        "instructor": "Partha  Pratim Mandal",
+        "description": "jrf, agp, 2, 3-0-0"
+    },
+    {
+        "code": "GPD505",
+        "name": "Near Surface Geophysics and Geotechnical Modelling",
+        "instructor": "Arun  Singh",
+        "description": "int.m.tech, agp, 10, 3-0-0"
+    },
+    {
+        "code": "GPD507",
+        "name": "Geophysics for Mineral Exploration",
+        "instructor": "Upendra K. Singh",
+        "description": "int.m.tech, agp, 8, 3-0-0"
+    },
+    {
+        "code": "GPD508",
+        "name": "Seismological Data Analysis",
+        "instructor": "Mohit  Agrawal",
+        "description": "int.m.tech, agp, 8, 3-0-0"
+    },
+    {
+        "code": "GPD509",
+        "name": "Well Log and Electrofacies Analysis",
+        "instructor": "Partha  Pratim Mandal",
+        "description": "m.sc.tech, agp, 4, 3-0-0"
+    },
+    {
+        "code": "GPD510",
+        "name": "Reservoir Geophysics and Deep Water Imaging",
+        "instructor": "Saurabh Datta Gupta",
+        "description": "m.sc.tech, agp, 4, 3-0-0"
+    },
+    {
+        "code": "GPD520",
+        "name": "Earthquake Statistics and Hazard",
+        "instructor": "Mohit  Agrawal",
+        "description": "m.tech, agp, 2, 3-0-0"
+    },
+    {
+        "code": "GPD521",
+        "name": "Time Series Analysis in Geosciences",
+        "instructor": "Saumen  Maiti",
+        "description": "m.tech, agp, 4, 3-0-0"
+    },
+    {
+        "code": "GPD522",
+        "name": "Computational Seismology",
+        "instructor": "Niptika  Jana",
+        "description": "m.sc.tech, agp, 6, 3-0-0"
+    },
+    {
+        "code": "GPE201",
+        "name": "Earth and Planetary System",
+        "instructor": "Anil Kumar Chaubey",
+        "description": "int.m.tech, agp, 4, 3-0-0"
+    },
+    {
+        "code": "GPO503",
+        "name": "Artificial Intelligence and Machine Learning in Geosciences",
+        "instructor": "Saumen  Maiti",
+        "description": "int.m.tech, agp, 6, 3-0-0"
+    },
+    {
+        "code": "GPO510",
+        "name": "Strong Motion Seismology and Structural Responses",
+        "instructor": "Prosanta Kumar Khan",
+        "description": "m.sc.tech, agp, 4, 3-0-0"
+    },
+    {
+        "code": "GPO511",
+        "name": "Satellite Image Processing and Geographic Information System",
+        "instructor": "Giri  Yellalacheruvu",
+        "description": "m.sc.tech, agp, 6, 3-0-0"
+    },
+    {
+        "code": "HSC507",
+        "name": "Textual Analysis",
+        "instructor": "Atreyee  Mukherjee",
+        "description": "ma, hss, 2, 3-0-0"
+    },
+    {
+        "code": "HSC516",
+        "name": "Quantitative Techniques Lab",
+        "instructor": "Sathya  Narayana Sharma",
+        "description": "ma, hss, 2, 0-0-2"
+    },
+    {
+        "code": "HSC520",
+        "name": "Introduction to Digital Humanities",
+        "instructor": "Nirban  Manna",
+        "description": "ma, hss, 2, 3-0-0"
+    },
+    {
+        "code": "HSC521",
+        "name": "Data Science Fundamentals",
+        "instructor": "Ahmed  Sameer",
+        "description": "ma, hss, 2, 3-0-0"
+    },
+    {
+        "code": "HSC527",
+        "name": "Digital Ethics",
+        "instructor": "Ajit Kumar Behura",
+        "description": "ma, hss, 2, 3-0-0"
+    },
+    {
+        "code": "HSC532",
+        "name": "Social Research Lab",
+        "instructor": "Dipannita  Chand",
+        "description": "ma, hss, 2, 0-0-2"
+    },
+    {
+        "code": "HSD507",
+        "name": "Introduction to Drama, Theatre and Performance Studies",
+        "instructor": "Nirban  Manna",
+        "description": "jrf, hss, 2, 3-0-0"
+    },
+    {
+        "code": "HSD512",
+        "name": "Gender Studies",
+        "instructor": "Rajni  Singh",
+        "description": "b.tech, me, 6, 3-0-0"
+    },
+    {
+        "code": "HSD521",
+        "name": "Vedanta Philosophy",
+        "instructor": "Gyan  Prakash",
+        "description": "jrf, hss, 2, 3-0-0"
+    },
+    {
+        "code": "HSD533",
+        "name": "Introduction to Yoga Philosophy",
+        "instructor": "Ajit Kumar Behura",
+        "description": "b.tech, me, 6, 3-0-0"
+    },
+    {
+        "code": "HSD551",
+        "name": "Psychological Data Science",
+        "instructor": "Ahmed  Sameer",
+        "description": "jrf, hss, 2, 3-0-0"
+    },
+    {
+        "code": "HSD554",
+        "name": "Mixed Method Research",
+        "instructor": "Sucharita  Maji",
+        "description": "ma, hss, 2, 3-0-0"
+    },
+    {
+        "code": "HSI101",
+        "name": "Communication Skills",
+        "instructor": "Rahul  D R,Md Mojibur Rahman,Abhisek  Ghosal,Nirban  Manna",
+        "description": "comm, comm, 2, 1-0-2"
+    },
+    {
+        "code": "HSO307",
+        "name": "Philosophy and Critical Thinking",
+        "instructor": "Gyan  Prakash",
+        "description": "b.tech, me, 6, 3-0-0"
+    },
+    {
+        "code": "HSO308",
+        "name": "Social Psychology",
+        "instructor": "Sucharita  Maji",
+        "description": "b.tech, me, 6, 3-0-0"
+    },
+    {
+        "code": "HSO320",
+        "name": "Principles of Sociology",
+        "instructor": "Sruti  Kanungo",
+        "description": "b.tech, me, 6, 3-0-0"
+    },
+    {
+        "code": "HSO503",
+        "name": "Technology, Culture and Society",
+        "instructor": "Dipannita  Chand",
+        "description": "b.tech, me, 6, 3-0-0"
+    },
+    {
+        "code": "HSO508",
+        "name": "Digital Society",
+        "instructor": "Sruti  Kanungo",
+        "description": "ma, hss, 2, 3-0-0"
+    },
+    {
+        "code": "HSO511",
+        "name": "Brain and Behaviour",
+        "instructor": "Sathya  Narayana Sharma",
+        "description": "b.tech, me, 6, 3-0-0"
+    },
+    {
+        "code": "HSO512",
+        "name": "Experience Psychology",
+        "instructor": "Deepika  Sharma",
+        "description": "b.tech, me, 6, 3-0-0"
+    },
+    {
+        "code": "HSO513",
+        "name": "Environment, Development and Politics",
+        "instructor": "Sangay  Tamang",
+        "description": "ma, hss, 2, 3-0-0"
+    },
+    {
+        "code": "HSO514",
+        "name": "Introduction to Climate Change and Society",
+        "instructor": "Sangay  Tamang",
+        "description": "b.tech, me, 6, 3-0-0"
+    },
+    {
+        "code": "MCC205",
+        "name": "Linear Algebra",
+        "instructor": "Jyoti   Dasgupta",
+        "description": "int.m.tech, mc, 4, 3-0-0"
+    },
+    {
+        "code": "MCC401",
+        "name": "Software Engineering",
+        "instructor": "Subhashis  Chatterjee",
+        "description": "int.m.tech, mc, 8, 3-0-0"
+    },
+    {
+        "code": "MCC402",
+        "name": "Software Engineering Practical",
+        "instructor": "Nabakumar  Jana",
+        "description": "int.m.tech, mc, 8, 0-0-2"
+    },
+    {
+        "code": "MCC500",
+        "name": "Research Methodology",
+        "instructor": "Manisha  Verma",
+        "description": "jrf, mc, 2, 3-0-0"
+    },
+    {
+        "code": "MCC508",
+        "name": "Advanced Algebra",
+        "instructor": "Abhay Kumar Singh",
+        "description": "m.sc, mc, 2, 3-0-0"
+    },
+    {
+        "code": "MCC509",
+        "name": "Statistical  Inference",
+        "instructor": "G N Singh",
+        "description": "int.m.tech, mc, 4, 3-0-0"
+    },
+    {
+        "code": "MCC509",
+        "name": "Statistical  Inference",
+        "instructor": "G N Singh",
+        "description": "m.sc, mc, 2, 3-0-0"
+    },
+    {
+        "code": "MCC510",
+        "name": "Operating Systems",
+        "instructor": "Mritunjay Kumar Singh",
+        "description": "int.m.tech, mc, 4, 3-0-0"
+    },
+    {
+        "code": "MCC510",
+        "name": "Operating Systems",
+        "instructor": "Mritunjay Kumar Singh",
+        "description": "m.sc, mc, 2, 3-0-0"
+    },
+    {
+        "code": "MCC511",
+        "name": "Database Management Systems",
+        "instructor": "Abhishek Kumar Singh",
+        "description": "int.m.tech, mc, 6, 3-0-0"
+    },
+    {
+        "code": "MCC511",
+        "name": "Database Management Systems",
+        "instructor": "Abhishek Kumar Singh",
+        "description": "m.sc, mc, 2, 3-0-0"
+    },
+    {
+        "code": "MCC512",
+        "name": "Operating Systems Practical",
+        "instructor": "Manisha  Verma",
+        "description": "int.m.tech, mc, 4, 0-0-3"
+    },
+    {
+        "code": "MCC512",
+        "name": "Operating Systems Practical",
+        "instructor": "Manisha  Verma",
+        "description": "m.sc, mc, 2, 0-0-3"
+    },
+    {
+        "code": "MCC513",
+        "name": "Database Management Systems Practical",
+        "instructor": "Sanjeev Anand Sahu",
+        "description": "int.m.tech, mc, 6, 0-0-2"
+    },
+    {
+        "code": "MCC513",
+        "name": "Database Management Systems Practical",
+        "instructor": "Sanjeev Anand Sahu",
+        "description": "m.sc, mc, 2, 0-0-2"
+    },
+    {
+        "code": "MCC539",
+        "name": "Advanced DBMS",
+        "instructor": "Kartikay  Gupta",
+        "description": "m.tech, mc, 2, 3-0-0"
+    },
+    {
+        "code": "MCC539",
+        "name": "Advanced DBMS",
+        "instructor": "Kartikay  Gupta",
+        "description": "mbaba, msie, 2, 3-0-0"
+    },
+    {
+        "code": "MCC540",
+        "name": "Neural Networks and Deep Learning",
+        "instructor": "Subhashis  Chatterjee",
+        "description": "m.tech, mc, 2, 3-0-0"
+    },
+    {
+        "code": "MCC541",
+        "name": "Advanced DBMS Practical",
+        "instructor": "Kartikay  Gupta",
+        "description": "m.tech, mc, 2, 0-0-2"
+    },
+    {
+        "code": "MCC541",
+        "name": "Advanced DBMS Practical",
+        "instructor": "Kartikay  Gupta",
+        "description": "mbaba, msie, 2, 0-0-2"
+    },
+    {
+        "code": "MCC542",
+        "name": "Neural Networks and Deep Learning Practical",
+        "instructor": "Subhashis  Chatterjee",
+        "description": "m.tech, mc, 2, 0-0-2"
+    },
+    {
+        "code": "MCD501",
+        "name": "Classical Mechanics",
+        "instructor": "Sanjeev Anand Sahu",
+        "description": "int.m.tech, mc, 6, 3-0-0"
+    },
+    {
+        "code": "MCD502",
+        "name": "Graph Theory",
+        "instructor": "Dinabandhu  Pradhan",
+        "description": "int.m.tech, mc, 8, 3-0-0"
+    },
+    {
+        "code": "MCD503",
+        "name": "Integral Equations and Calculus of Variations",
+        "instructor": "Akhilesh  Prasad",
+        "description": "m.sc, mc, 4, 3-0-0"
+    },
+    {
+        "code": "MCD504",
+        "name": "Measure Theory",
+        "instructor": "Neeru   Bala",
+        "description": "m.sc, mc, 2, 3-0-0"
+    },
+    {
+        "code": "MCD508",
+        "name": "Theory of Computation",
+        "instructor": "Seetala Prasad Tiwari",
+        "description": "int.m.tech, mc, 6, 3-0-0"
+    },
+    {
+        "code": "MCD510",
+        "name": "Complex Analysis",
+        "instructor": "Atul Kumar Verma",
+        "description": "int.m.tech, mc, 8, 3-0-0"
+    },
+    {
+        "code": "MCD511",
+        "name": "Mathematical Ecology",
+        "instructor": "Ranjit Kumar Upadhyay",
+        "description": "int.m.tech, mc, 6, 3-0-0"
+    },
+    {
+        "code": "MCD513",
+        "name": "Methods of Applied Mathematics",
+        "instructor": "Scindhiya  Laxmi",
+        "description": "m.sc, mc, 4, 3-0-0"
+    },
+    {
+        "code": "MCD516",
+        "name": "Industrial Statistics",
+        "instructor": "Nabakumar  Jana",
+        "description": "int.m.tech, mc, 8, 3-0-0"
+    },
+    {
+        "code": "MCD532",
+        "name": "Data Mining",
+        "instructor": "Kartikay  Gupta",
+        "description": "int.m.tech, mc, 10, 3-0-0"
+    },
+    {
+        "code": "MCD535",
+        "name": "Bioinformatics",
+        "instructor": "Shuvashree  Mondal",
+        "description": "int.m.tech, mc, 10, 3-0-0"
+    },
+    {
+        "code": "MCD540",
+        "name": "Biostatistics",
+        "instructor": "Gajendra Kumar Vishwakarma",
+        "description": "m.tech, mc, 4, 3-0-0"
+    },
+    {
+        "code": "MCD543",
+        "name": "Missing Data Analysis in Survey Sampling",
+        "instructor": "Atul Kumar Verma",
+        "description": "m.tech, mc, 2, 3-0-0"
+    },
+    {
+        "code": "MCD560",
+        "name": "Orbital Mechanics",
+        "instructor": "Badam Singh Kushvah",
+        "description": "int.m.tech, mc, 6, 3-0-0"
+    },
+    {
+        "code": "MCE301",
+        "name": "Operations Research",
+        "instructor": "Anurag  Jayswal",
+        "description": "int.m.tech, mc, 4, 3-0-0"
+    },
+    {
+        "code": "MCI102",
+        "name": "Mathematics - II",
+        "instructor": "Akhilesh  Prasad,Abhishek Kumar Singh,Abhay Kumar Singh,Pramod Kumar Kewat,Jyoti   Dasgupta,Scindhiya  Laxmi,Badam Singh Kushvah,A Antony Selvan",
+        "description": "comm, comm, 2, 3-1-0"
+    },
+    {
+        "code": "MCI103",
+        "name": "Numerical Methods",
+        "instructor": "Shishir  Gupta,Mritunjay Kumar Singh,Neeru   Bala,Ramanababu  Kaligatla",
+        "description": "comm, comm, 2, 2-2-0"
+    },
+    {
+        "code": "MCO402",
+        "name": "Modelling and Simulation",
+        "instructor": "Manisha  Verma",
+        "description": "int.m.tech, mc, 8, 3-0-0"
+    },
+    {
+        "code": "MCO501",
+        "name": "Discrete Mathematics",
+        "instructor": "Santimoy  Kundu",
+        "description": "int.m.tech, mc, 4, 3-0-0"
+    },
+    {
+        "code": "MCO531",
+        "name": "Stochastic Processes",
+        "instructor": "Gajendra Kumar Vishwakarma",
+        "description": "m.tech, mc, 2, 3-0-0"
+    },
+    {
+        "code": "MCO531",
+        "name": "Stochastic Processes",
+        "instructor": "Gajendra Kumar Vishwakarma",
+        "description": "mbaba, msie, 2, 3-0-0"
+    },
+    {
+        "code": "MCO532",
+        "name": "Advanced Multivariate Analysis",
+        "instructor": "Nabakumar  Jana",
+        "description": "m.tech, mc, 2, 3-0-0"
+    },
+    {
+        "code": "MCO533",
+        "name": "Numerical Linear Algebra",
+        "instructor": "Pentyala Srinivasa Rao",
+        "description": "m.tech, mc, 4, 3-0-0"
+    },
+    {
+        "code": "MEC206",
+        "name": "Fluid Machines",
+        "instructor": "Sandipan Kumar Das",
+        "description": "b.tech, mech, 4, 3-0-0"
+    },
+    {
+        "code": "MEC207",
+        "name": "Dynamics of Machinery",
+        "instructor": "Rabindra Nath Hota",
+        "description": "b.tech, mech, 4, 3-0-0"
+    },
+    {
+        "code": "MEC208",
+        "name": "Heat and Mass Transfer",
+        "instructor": "Satyabrata  Sahoo",
+        "description": "b.tech, mech, 4, 3-0-0"
+    },
+    {
+        "code": "MEC209",
+        "name": "Production Technology",
+        "instructor": "Somnath  Chattopadhyaya",
+        "description": "b.tech, mech, 4, 3-0-0"
+    },
+    {
+        "code": "MEC210",
+        "name": "Heat Transfer and Fluid Machines Lab",
+        "instructor": "Satyabrata  Sahoo,Sandipan Kumar Das,Shibayan  Sarkar,Subhankar  Sen,Shailendra Narayan Singh",
+        "description": "b.tech, mech, 4, 0-0-2"
+    },
+    {
+        "code": "MEC211",
+        "name": "Machine Dynamics and Solid Modeling Lab",
+        "instructor": "Kailash  Jha,Sachin Kumar Singh,Rabindra Nath Hota,Sarthak Sambit Singh",
+        "description": "b.tech, mech, 4, 0-0-2"
+    },
+    {
+        "code": "MEC306",
+        "name": "Computer Aided Manufacturing",
+        "instructor": "Vivek  Bajpai",
+        "description": "b.tech, mech, 6, 3-0-0"
+    },
+    {
+        "code": "MEC307",
+        "name": "IC Engines and Gas Turbines",
+        "instructor": "Deepak Kumar Mandal",
+        "description": "b.tech, mech, 6, 3-0-0"
+    },
+    {
+        "code": "MEC308",
+        "name": "Computer Aided Manufacturing Lab",
+        "instructor": "Vivek  Bajpai,Amit Rai Dixit",
+        "description": "b.tech, mech, 6, 0-0-3"
+    },
+    {
+        "code": "MEC309",
+        "name": "Heat Power and Refrigeration Lab",
+        "instructor": "Shailendra Narayan Singh,Antarip  Poddar,Deepak Kumar Mandal,Subramanian  Narayan,Rakesh  Kumar",
+        "description": "b.tech, mech, 6, 0-0-2"
+    },
+    {
+        "code": "MEC509",
+        "name": "Mechanical Engineering Lab - I",
+        "instructor": "Randip Kumar Das,Kabilan  B,Sanjoy K Ghoshal,Swagata  Bhaumik,Arun  Dayal Udai,Aman  Kumar,Alok Kumar Das,Subrata Kumar Ghosh",
+        "description": "m.tech, mech, 2, 0-0-3"
+    },
+    {
+        "code": "MEC510",
+        "name": "Mechanical Engineering Lab - II",
+        "instructor": "Ashis  Mallick,Tapan Kumar Sengupta,Aditi  Sengupta,Pawan Kumar Singh,Ajay  Bhandari,Amitava  Mandal,Md Sikandar Azam,P K Mahato",
+        "description": "m.tech, mech, 2, 0-0-3"
+    },
+    {
+        "code": "MEC591",
+        "name": "Research Methodology and Statistics",
+        "instructor": "Kabilan  B",
+        "description": "jrf, mech, 2, 3-0-0"
+    },
+    {
+        "code": "MED503",
+        "name": "Finite Element Method",
+        "instructor": "P K Mahato",
+        "description": "m.tech, mech, 4, 3-0-0"
+    },
+    {
+        "code": "MED509",
+        "name": "Advanced Thermodynamics",
+        "instructor": "Randip Kumar Das",
+        "description": "m.tech, mech, 4, 3-0-0"
+    },
+    {
+        "code": "MED513",
+        "name": "Thermo-Production Processes",
+        "instructor": "Alok Kumar Das",
+        "description": "m.tech, mech, 2, 3-0-0"
+    },
+    {
+        "code": "MED515",
+        "name": "Theory of Metal Forming",
+        "instructor": "Kalyan Kumar Singh",
+        "description": "m.tech, mech, 4, 3-0-0"
+    },
+    {
+        "code": "MED519",
+        "name": "Engineering Tribology",
+        "instructor": "Subrata Kumar Ghosh",
+        "description": "b.tech, mech, 6, 3-0-0"
+    },
+    {
+        "code": "MED521",
+        "name": "Theory of Lubrication",
+        "instructor": "Md Sikandar Azam",
+        "description": "b.tech, mech, 8, 3-0-0"
+    },
+    {
+        "code": "MED525",
+        "name": "Rotor Dynamics",
+        "instructor": "Aman  Kumar",
+        "description": "m.tech, mech, 2, 3-0-0"
+    },
+    {
+        "code": "MED529",
+        "name": "Composite Materials",
+        "instructor": "Ashis  Mallick",
+        "description": "b.tech, mech, 8, 3-0-0"
+    },
+    {
+        "code": "MED531",
+        "name": "Fracture Mechanics",
+        "instructor": "Sarthak Sambit Singh",
+        "description": "b.tech, mech, 8, 3-0-0"
+    },
+    {
+        "code": "MED538",
+        "name": "Gas Dynamics",
+        "instructor": "Swagata  Bhaumik",
+        "description": "m.tech, mech, 2, 3-0-0"
+    },
+    {
+        "code": "MED541",
+        "name": "Microfluidics",
+        "instructor": "Pawan Kumar Singh",
+        "description": "b.tech, mech, 8, 3-0-0"
+    },
+    {
+        "code": "MED542",
+        "name": "Finite Element Method in Thermal Engineering",
+        "instructor": "Subhankar  Sen",
+        "description": "b.tech, mech, 8, 3-0-0"
+    },
+    {
+        "code": "MED545",
+        "name": "Turbomachinery",
+        "instructor": "Shibayan  Sarkar",
+        "description": "b.tech, mech, 6, 3-0-0"
+    },
+    {
+        "code": "MED546",
+        "name": "Conduction and Radiation",
+        "instructor": "Ajay  Bhandari",
+        "description": "m.tech, mech, 2, 3-0-0"
+    },
+    {
+        "code": "MED547",
+        "name": "Convective and Two-phase Flow",
+        "instructor": "Shailendra Narayan Singh",
+        "description": "m.tech, mech, 2, 3-0-0"
+    },
+    {
+        "code": "MED554",
+        "name": "Surface Engineering",
+        "instructor": "Amitava  Mandal",
+        "description": "m.tech, mech, 2, 3-0-0"
+    },
+    {
+        "code": "MED555",
+        "name": "Computer Aided Manufacturing and Robotics",
+        "instructor": "Zafar  Alam",
+        "description": "m.tech, mech, 2, 3-0-0"
+    },
+    {
+        "code": "MEE202",
+        "name": "Computer Aided Engineering Design",
+        "instructor": "Kailash  Jha",
+        "description": "b.tech, mech, 4, 3-0-0"
+    },
+    {
+        "code": "MEI101",
+        "name": "Engineering Mechanics",
+        "instructor": "Niranjan  Kumar,Sachin Kumar Singh,Subramanian  Narayan,Rashmi Ranjan Das",
+        "description": "comm, comm, 2, 3-1-0"
+    },
+    {
+        "code": "MEI102",
+        "name": "Manufacturing Processes",
+        "instructor": "Nirmal Kumar Singh,Suman  Saha,Somnath  Chattopadhyaya,Zafar  Alam,",
+        "description": "comm, comm, 2, 2-0-3"
+    },
+    {
+        "code": "MEO302",
+        "name": "Refrigeration and Air-conditioning",
+        "instructor": "Rakesh  Kumar",
+        "description": "b.tech, mech, 6, 3-0-0"
+    },
+    {
+        "code": "MEO522",
+        "name": "Condition Monitoring of Machines",
+        "instructor": "Madan Lal Chandravanshi",
+        "description": "b.tech, mech, 8, 3-0-0"
+    },
+    {
+        "code": "MEO528",
+        "name": "Robotics",
+        "instructor": "Arun  Dayal Udai",
+        "description": "b.tech, mech, 8, 3-0-0"
+    },
+    {
+        "code": "MEO534",
+        "name": "Automation and Control",
+        "instructor": "Sanjoy K Ghoshal",
+        "description": "m.tech, mech, 4, 3-0-0"
+    },
+    {
+        "code": "MEO579",
+        "name": "Computational Fluid Dynamics",
+        "instructor": "Antarip  Poddar",
+        "description": "m.tech, mech, 2, 3-0-0"
+    },
+    {
+        "code": "MEO581",
+        "name": "Fundamentals of Combustion",
+        "instructor": "Aditi  Sengupta",
+        "description": "b.tech, mech, 6, 3-0-0"
+    },
+    {
+        "code": "MEO586",
+        "name": "Additive Manufacturing",
+        "instructor": "Amit Rai Dixit",
+        "description": "b.tech, mech, 6, 3-0-0"
+    },
+    {
+        "code": "MEO590",
+        "name": "Advanced Scientific Computing",
+        "instructor": "Tapan Kumar Sengupta",
+        "description": "b.tech, mech, 6, 3-0-0"
+    },
+    {
+        "code": "MMC206",
+        "name": "Mine Electrical Technology",
+        "instructor": "Ananda Shankar Hati",
+        "description": "b.tech, mech, 4, 3-1-0"
+    },
+    {
+        "code": "MMC207",
+        "name": "Bulk Material Handling Equipment",
+        "instructor": "Tanmay  Dutta",
+        "description": "b.tech, mech, 4, 3-0-0"
+    },
+    {
+        "code": "MMC208",
+        "name": "Design of Mining Equipment Components",
+        "instructor": "K Priya Ajit",
+        "description": "b.tech, mech, 4, 3-0-0"
+    },
+    {
+        "code": "MMC209",
+        "name": "Hydraulics & Pneumatics",
+        "instructor": "Ajit  Kumar",
+        "description": "b.tech, mech, 4, 3-0-0"
+    },
+    {
+        "code": "MMC210",
+        "name": "Hydraulics & Pneumatics Lab",
+        "instructor": "Ajit  Kumar,Niranjan  Kumar",
+        "description": "b.tech, mech, 4, 0-0-2"
+    },
+    {
+        "code": "MMC211",
+        "name": "Manufacturing Technology and Soft Computing Lab",
+        "instructor": "Jayanta  Das,Somnath  Chattopadhyaya",
+        "description": "b.tech, mech, 4, 0-0-2"
+    },
+    {
+        "code": "MMC305",
+        "name": "Underground Mining Equipment",
+        "instructor": "Jayanta  Das",
+        "description": "b.tech, mech, 6, 3-1-0"
+    },
+    {
+        "code": "MMC306",
+        "name": "Opencast Mining Equipment",
+        "instructor": "L A   Kumaraswamidhas",
+        "description": "b.tech, mech, 6, 3-0-0"
+    },
+    {
+        "code": "MMC307",
+        "name": "Mining Machinery Lab",
+        "instructor": "K Priya Ajit,L A   Kumaraswamidhas",
+        "description": "b.tech, mech, 6, 0-0-2"
+    },
+    {
+        "code": "MMC308",
+        "name": "Pumps Fans & Compressors Lab",
+        "instructor": "Tanweer  Alam,Tanmay  Dutta",
+        "description": "b.tech, mech, 6, 0-0-2"
+    },
+    {
+        "code": "MME201",
+        "name": "IC Engines",
+        "instructor": "Tanweer  Alam",
+        "description": "b.tech, mech, 4, 3-0-0"
+    },
+    {
+        "code": "MMO504",
+        "name": "Advanced Fluid Power Systems and Control",
+        "instructor": "Niranjan  Kumar",
+        "description": "b.tech, mech, 8, 3-0-0"
+    },
+    {
+        "code": "MNC205",
+        "name": "Rock Mechanics",
+        "instructor": "Rabindra Kumar Sinha",
+        "description": "b.tech, me, 4, 3-0-0"
+    },
+    {
+        "code": "MNC206",
+        "name": "Mine Ventilation",
+        "instructor": "Devi Prasad Mishra",
+        "description": "b.tech, me, 4, 3-0-0"
+    },
+    {
+        "code": "MNC207",
+        "name": "Underground Metal Mining",
+        "instructor": "Mohammad Soyeb Alam",
+        "description": "b.tech, me, 4, 3-0-0"
+    },
+    {
+        "code": "MNC208",
+        "name": "Underground Coal Mining",
+        "instructor": "R M Bhattacharjee",
+        "description": "b.tech, me, 4, 3-0-0"
+    },
+    {
+        "code": "MNC209",
+        "name": "Rock Mechanics Practical",
+        "instructor": "Gnananandh  Budi,Dondapati Gopi Krishna,Rabindra Kumar Sinha",
+        "description": "b.tech, me, 4, 0-0-2"
+    },
+    {
+        "code": "MNC210",
+        "name": "Mine Ventilation practical - I",
+        "instructor": "Partha Sarathi Paul,Subhas Chandra Bhowmik,Patitapaban   Sahu",
+        "description": "b.tech, me, 4, 0-0-2"
+    },
+    {
+        "code": "MNC304",
+        "name": "Mine Legislation and Safety",
+        "instructor": "Partha Sarathi Paul",
+        "description": "b.tech, me, 6, 3-0-0"
+    },
+    {
+        "code": "MNC305",
+        "name": "Mine Automation and Data Analytics",
+        "instructor": "Radhakanta  Koner",
+        "description": "b.tech, me, 6, 3-0-0"
+    },
+    {
+        "code": "MNC306",
+        "name": "Mine Data Analytics Practical",
+        "instructor": "Radhakanta  Koner,Siddharth  Agarwal",
+        "description": "b.tech, me, 6, 0-0-2"
+    },
+    {
+        "code": "MNC307",
+        "name": "Numerical Modelling/Remote Sensing & GIS Practical",
+        "instructor": "Vasanta Govind Kumar Villuri,Mohammad Soyeb Alam,Kashinath  Pal",
+        "description": "b.tech, me, 6, 0-0-2"
+    },
+    {
+        "code": "MNC503",
+        "name": "Mine Planning and Design",
+        "instructor": "Bhanwar Singh Choudhary",
+        "description": "m.tech, me, 2, 3-0-0"
+    },
+    {
+        "code": "MNC506",
+        "name": "Computer Aided Mine Planning and Design Practical",
+        "instructor": "Sheo  Shankar Rai",
+        "description": "m.tech, me, 2, 0-0-3"
+    },
+    {
+        "code": "MNC508",
+        "name": "Geostatistics and Mine Valuation",
+        "instructor": "Siddharth  Agarwal",
+        "description": "m.tech, me, 2, 3-0-0"
+    },
+    {
+        "code": "MNC509",
+        "name": "Mine Simulation and Data analytics Practical",
+        "instructor": "Bhaskara  Behera",
+        "description": "m.tech, me, 2, 0-0-3"
+    },
+    {
+        "code": "MND407",
+        "name": "Underground Space Technology",
+        "instructor": "V M S R   Murthy",
+        "description": "b.tech, me, 8, 3-0-0"
+    },
+    {
+        "code": "MND408",
+        "name": "Innovative Mining Systems",
+        "instructor": "Subhas Chandra Bhowmik",
+        "description": "b.tech, me, 8, 3-0-0"
+    },
+    {
+        "code": "MND409",
+        "name": "Introduction to Geographical Information System",
+        "instructor": "Vasanta Govind Kumar Villuri",
+        "description": "b.tech, me, 8, 3-0-0"
+    },
+    {
+        "code": "MND410",
+        "name": "Advanced Blasting Techniques",
+        "instructor": "Dondapati Gopi Krishna",
+        "description": "b.tech, me, 8, 3-0-0"
+    },
+    {
+        "code": "MND411",
+        "name": "Advanced Underground Mining Methods",
+        "instructor": "Bhaskara  Behera",
+        "description": "b.tech, me, 8, 3-0-0"
+    },
+    {
+        "code": "MND412",
+        "name": "Deep Coal Mining",
+        "instructor": "Ashok  Kumar",
+        "description": "b.tech, me, 8, 3-0-0"
+    },
+    {
+        "code": "MND500",
+        "name": "Managerial Decision Making",
+        "instructor": "Siddharth  Agarwal",
+        "description": "m.tech, me, 2, 3-0-0"
+    },
+    {
+        "code": "MND504",
+        "name": "Modelling and Analysis of Geospatial data",
+        "instructor": "Vasanta Govind Kumar Villuri",
+        "description": "m.tech, me, 4, 3-0-0"
+    },
+    {
+        "code": "MND505",
+        "name": "Geospatial Technologies for Natural Resources",
+        "instructor": "Dheeraj  Kumar",
+        "description": "m.tech, me, 4, 3-0-0"
+    },
+    {
+        "code": "MND511",
+        "name": "Modern Blasting Technology in Mining",
+        "instructor": "Dondapati Gopi Krishna",
+        "description": "m.tech, me, 4, 3-0-0"
+    },
+    {
+        "code": "MND547",
+        "name": "Mine Automation",
+        "instructor": "Sheo  Shankar Rai",
+        "description": "m.tech, me, 4, 3-0-0"
+    },
+    {
+        "code": "MND556",
+        "name": "Computational Geomechanics",
+        "instructor": "Gnananandh  Budi",
+        "description": "m.tech, me, 2, 3-0-0"
+    },
+    {
+        "code": "MNE202",
+        "name": "Introductory Rock Mechanics",
+        "instructor": "Kashinath  Pal",
+        "description": "b.tech, me, 4, 3-0-0"
+    },
+    {
+        "code": "MNO302",
+        "name": "Seabed Mining and Asteroid Mining",
+        "instructor": "V M S R   Murthy,Sheo  Shankar Rai",
+        "description": "b.tech, me, 6, 3-0-0"
+    },
+    {
+        "code": "MNO304",
+        "name": "Coal Mine Methane Recovery and Utilization",
+        "instructor": "Patitapaban   Sahu",
+        "description": "b.tech, me, 6, 3-0-0"
+    },
+    {
+        "code": "MNO401",
+        "name": "Rock Engineering",
+        "instructor": "Ashok  Kumar",
+        "description": "b.tech, me, 6, 3-0-0"
+    },
+    {
+        "code": "MNO501",
+        "name": "Mining, Energy and Climate Change",
+        "instructor": "Binay  Dayal,Bhaskara  Behera",
+        "description": "m.tech, me, 2, 3-0-0"
+    },
+    {
+        "code": "MNO510",
+        "name": "Rock Excavation Technology",
+        "instructor": "Bhanwar Singh Choudhary",
+        "description": "m.tech, me, 2, 3-0-0"
+    },
+    {
+        "code": "MSC510",
+        "name": "Corporate Finance",
+        "instructor": "Shashank   Bansal",
+        "description": "mba, msie, 2, 3-0-0"
+    },
+    {
+        "code": "MSC510",
+        "name": "Corporate Finance",
+        "instructor": "Shashank   Bansal",
+        "description": "mbaba, msie, 2, 3-0-0"
+    },
+    {
+        "code": "MSC511",
+        "name": "Organizational Behaviour",
+        "instructor": "Govind Swaroop Pathak",
+        "description": "mba, msie, 2, 3-0-0"
+    },
+    {
+        "code": "MSC512",
+        "name": "Operations Management",
+        "instructor": "Krishnendu  Shaw",
+        "description": "mba, msie, 2, 3-0-0"
+    },
+    {
+        "code": "MSC513",
+        "name": "Marketing Management",
+        "instructor": "Bibhas  Chandra",
+        "description": "mba, msie, 2, 3-0-0"
+    },
+    {
+        "code": "MSC514",
+        "name": "Human Resources Management",
+        "instructor": "Sabnam  Basu",
+        "description": "mba, msie, 2, 3-0-0"
+    },
+    {
+        "code": "MSC515",
+        "name": "Software Lab",
+        "instructor": "Krishnendu  Shaw",
+        "description": "m.tech, msie, 2, 0-0-2"
+    },
+    {
+        "code": "MSC515",
+        "name": "Software Lab",
+        "instructor": "Krishnendu  Shaw",
+        "description": "mba, msie, 2, 0-0-2"
+    },
+    {
+        "code": "MSC517",
+        "name": "Simulation Modelling & Analysis Lab",
+        "instructor": "Rashmi  Singh",
+        "description": "m.tech, msie, 2, 0-0-2"
+    },
+    {
+        "code": "MSC517",
+        "name": "Simulation Modelling & Analysis Lab",
+        "instructor": "Rashmi  Singh",
+        "description": "mba, msie, 2, 0-0-2"
+    },
+    {
+        "code": "MSC519",
+        "name": "Project Management",
+        "instructor": "Shikha  Singh",
+        "description": "m.tech, msie, 2, 3-0-0"
+    },
+    {
+        "code": "MSC520",
+        "name": "Quality Management",
+        "instructor": "Himanshu   Gupta",
+        "description": "m.tech, msie, 2, 3-0-0"
+    },
+    {
+        "code": "MSC524",
+        "name": "Marketing Management",
+        "instructor": "Mrinalini  Pandey",
+        "description": "mbaba, msie, 2, 4-0-0"
+    },
+    {
+        "code": "MSC525",
+        "name": "Human Resources Management",
+        "instructor": "Sabnam  Basu",
+        "description": "mbaba, msie, 2, 4-0-0"
+    },
+    {
+        "code": "MSC527",
+        "name": "Machine Learning",
+        "instructor": "Sandeep  Mondal",
+        "description": "m.tech, msie, 2, 3-0-0"
+    },
+    {
+        "code": "MSC527",
+        "name": "Machine Learning",
+        "instructor": "Sandeep  Mondal",
+        "description": "mbaba, msie, 2, 3-0-0"
+    },
+    {
+        "code": "MSC528",
+        "name": "Machine Learning Lab",
+        "instructor": "Sandeep  Mondal",
+        "description": "mbaba, msie, 2, 0-0-2"
+    },
+    {
+        "code": "MSC529",
+        "name": "Big Data Lab",
+        "instructor": "Shikha  Singh",
+        "description": "mbaba, msie, 4, 0-0-2"
+    },
+    {
+        "code": "MSD504",
+        "name": "HR Analytics",
+        "instructor": "Sabnam  Basu",
+        "description": "mbaba, msie, 4, 3-0-0"
+    },
+    {
+        "code": "MSD505",
+        "name": "Materials Management",
+        "instructor": "Himanshu   Gupta",
+        "description": "m.tech, msie, 4, 3-0-0"
+    },
+    {
+        "code": "MSD512",
+        "name": "Service Operations Management",
+        "instructor": "Kuthambalayan Sridhar Thyagaraj",
+        "description": "m.tech, msie, 2, 3-0-0"
+    },
+    {
+        "code": "MSD514",
+        "name": "Financial Econometrics",
+        "instructor": "Aparna  Krishna",
+        "description": "mba, msie, 4, 3-0-0"
+    },
+    {
+        "code": "MSD514",
+        "name": "Financial Econometrics",
+        "instructor": "Aparna  Krishna",
+        "description": "mbaba, msie, 4, 3-0-0"
+    },
+    {
+        "code": "MSD515",
+        "name": "Services Marketing",
+        "instructor": "Saumya  Singh",
+        "description": "mba, msie, 4, 3-0-0"
+    },
+    {
+        "code": "MSD519",
+        "name": "International Finance",
+        "instructor": "Preeti  Roy",
+        "description": "mbaba, msie, 4, 3-0-0"
+    },
+    {
+        "code": "MSD520",
+        "name": "Merchant Banking and Financial Services",
+        "instructor": "Niladri  Das",
+        "description": "mbaba, msie, 4, 3-0-0"
+    },
+    {
+        "code": "MSD521",
+        "name": "Consumer Behaviour",
+        "instructor": "Mrinalini  Pandey",
+        "description": "mba, msie, 4, 3-0-0"
+    },
+    {
+        "code": "MSD524",
+        "name": "International Human Resource Management",
+        "instructor": "Govind Swaroop Pathak",
+        "description": "mbaba, msie, 4, 3-0-0"
+    },
+    {
+        "code": "MSD525",
+        "name": "Operations Analytics",
+        "instructor": "Rashmi  Singh",
+        "description": "m.tech, msie, 4, 3-0-0"
+    },
+    {
+        "code": "MSD526",
+        "name": "Supply Chain Management",
+        "instructor": "Kuthambalayan Sridhar Thyagaraj",
+        "description": "m.tech, msie, 2, 3-0-0"
+    },
+    {
+        "code": "MSI101",
+        "name": "Engineering Economics and Finance",
+        "instructor": "Aparna  Krishna,Preeti  Roy,Shashank   Bansal,,Niladri  Das",
+        "description": "comm, comm, 2, 2-0-0"
+    },
+    {
+        "code": "PEC206",
+        "name": "Elements of Petroleum Production Engineering",
+        "instructor": "Tarkeshwar  Kumar",
+        "description": "b.tech, pe, 4, 3-0-0"
+    },
+    {
+        "code": "PEC207",
+        "name": "Petroleum Formation Evaluation",
+        "instructor": "Neetish Kumar Maurya",
+        "description": "b.tech, pe, 4, 3-0-0"
+    },
+    {
+        "code": "PEC208",
+        "name": "Reservoir Fluid Thermodynamics",
+        "instructor": "Tarun Kumar Naiya",
+        "description": "b.tech, pe, 4, 3-0-0"
+    },
+    {
+        "code": "PEC209",
+        "name": "Petroleum Product Testing Practical",
+        "instructor": "Sayantan  Ghosh,Vikas  Mahto,Ashutosh  Kumar",
+        "description": "b.tech, pe, 4, 0-0-2"
+    },
+    {
+        "code": "PEC210",
+        "name": "Drilling Simulation Practical",
+        "instructor": "Raj  Kiran,Mohammed Hamid Siddique,Vinay Kumar Rajak",
+        "description": "b.tech, pe, 4, 0-0-2"
+    },
+    {
+        "code": "PEC306",
+        "name": "Directional Drilling",
+        "instructor": "A K Pathak",
+        "description": "b.tech, pe, 6, 3-0-0"
+    },
+    {
+        "code": "PEC307",
+        "name": "Oil and Gas Well Testing",
+        "instructor": "Ashutosh  Kumar",
+        "description": "b.tech, pe, 6, 3-0-0"
+    },
+    {
+        "code": "PEC308",
+        "name": "Enhanced Oil Recovery Practical",
+        "instructor": "Archana  ,Tarun Kumar Naiya,Pawan  Gupta",
+        "description": "b.tech, pe, 6, 0-0-2"
+    },
+    {
+        "code": "PEC309",
+        "name": "Reservoir Characterization Practical",
+        "instructor": "Sayantan  Ghosh,Ajay  Suri,Rajeev  Upadhyay",
+        "description": "b.tech, pe, 6, 0-0-2"
+    },
+    {
+        "code": "PEC508",
+        "name": "Petroleum Geomechanics and Hydraulic Fracturing",
+        "instructor": "Ajay  Suri",
+        "description": "m.tech, pe, 2, 3-0-0"
+    },
+    {
+        "code": "PEC509",
+        "name": "Advanced Drilling Technology",
+        "instructor": "A K Pathak",
+        "description": "m.tech, pe, 2, 3-0-0"
+    },
+    {
+        "code": "PEC510",
+        "name": "Petroleum Instrumentation and Measurements Practical",
+        "instructor": "Chandan  Sahu,Keka  Ojha,Ajay  Mandal",
+        "description": "m.tech, pe, 2, 0-0-2"
+    },
+    {
+        "code": "PEC511",
+        "name": "Development of Working Models Practical",
+        "instructor": "Pawan  Gupta",
+        "description": "m.tech, pe, 2, 0-0-2"
+    },
+    {
+        "code": "PED404",
+        "name": "Petroleum Engineering Design",
+        "instructor": "Mohammed Hamid Siddique",
+        "description": "b.tech, pe, 8, 3-0-0"
+    },
+    {
+        "code": "PED405",
+        "name": "Pipeline Engineering",
+        "instructor": "Vinay Kumar Rajak",
+        "description": "b.tech, pe, 8, 3-0-0"
+    },
+    {
+        "code": "PED406",
+        "name": "Reservoir Modeling and Simulation",
+        "instructor": "Rajeev  Upadhyay",
+        "description": "b.tech, pe, 8, 3-0-0"
+    },
+    {
+        "code": "PED501",
+        "name": "Reservoir Simulation",
+        "instructor": "Neetish Kumar Maurya",
+        "description": "m.tech, pe, 2, 3-0-0"
+    },
+    {
+        "code": "PED502",
+        "name": "Well Intervention, Workover and Stimulation Techniques",
+        "instructor": "Raj  Kiran",
+        "description": "b.tech, pe, 8, 3-0-0"
+    },
+    {
+        "code": "PED503",
+        "name": "Enhanced Oil and Gas Recovery Methods",
+        "instructor": "Tarkeshwar  Kumar",
+        "description": "m.tech, pe, 4, 3-0-0"
+    },
+    {
+        "code": "PED504",
+        "name": "Profile Modification & Water Shutoff",
+        "instructor": "Vikas  Mahto",
+        "description": "m.tech, pe, 4, 3-0-0"
+    },
+    {
+        "code": "PEE202",
+        "name": "Petroleum Environmental Management",
+        "instructor": "Sayantan  Ghosh",
+        "description": "b.tech, pe, 4, 3-0-0"
+    },
+    {
+        "code": "PEO301",
+        "name": "Heat and Mass Transfer in Petroleum Operations",
+        "instructor": "Mohammed Hamid Siddique",
+        "description": "b.tech, pe, 6, 3-0-0"
+    },
+    {
+        "code": "PEO302",
+        "name": "Oil & Gas Field Development and Planning",
+        "instructor": "Keka  Ojha",
+        "description": "b.tech, pe, 6, 3-0-0"
+    },
+    {
+        "code": "PEO405",
+        "name": "Integrated Reservoir Management",
+        "instructor": "Chandan  Sahu",
+        "description": "b.tech, pe, 8, 3-0-0"
+    },
+    {
+        "code": "PEO501",
+        "name": "Fluid Flow through Porous Media",
+        "instructor": "Chandan  Guria",
+        "description": "m.tech, pe, 2, 3-0-0"
+    },
+    {
+        "code": "PEO502",
+        "name": "Flow Assurance",
+        "instructor": "Ajay  Mandal",
+        "description": "b.tech, pe, 6, 3-0-0"
+    },
+    {
+        "code": "PEO503",
+        "name": "Unconventional Hydrocarbon Resources",
+        "instructor": "Pawan  Gupta",
+        "description": "m.tech, pe, 2, 3-0-0"
+    },
+    {
+        "code": "PEO506",
+        "name": "Carbon Capture And Sequestration",
+        "instructor": "Archana",
+        "description": "b.tech, pe, 8, 3-0-0"
+    },
+    {
+        "code": "PHC205",
+        "name": "Introduction to Quantum Mechanics",
+        "instructor": "Bobby Kachappilly Antony",
+        "description": "b.tech, phy, 4, 3-0-0"
+    },
+    {
+        "code": "PHC206",
+        "name": "Applied Optics",
+        "instructor": "Kaushal  Kumar",
+        "description": "b.tech, phy, 4, 3-0-0"
+    },
+    {
+        "code": "PHC207",
+        "name": "Nuclear Science and Engineering",
+        "instructor": "Sudeshna  Sen",
+        "description": "b.tech, phy, 4, 3-0-0"
+    },
+    {
+        "code": "PHC208",
+        "name": "Electrodynamics",
+        "instructor": "Anil Kumar Nirala",
+        "description": "b.tech, phy, 4, 3-0-0"
+    },
+    {
+        "code": "PHC209",
+        "name": "Optics Lab",
+        "instructor": "P. M. Sarun",
+        "description": "b.tech, phy, 4, 0-0-2"
+    },
+    {
+        "code": "PHC210",
+        "name": "Electricity and Magnetism Lab",
+        "instructor": "Sridhar  Sahu",
+        "description": "b.tech, phy, 4, 0-0-2"
+    },
+    {
+        "code": "PHC302",
+        "name": "Solid State Physics",
+        "instructor": "Shailendra Kumar Sharma",
+        "description": "b.tech, phy, 6, 3-0-0"
+    },
+    {
+        "code": "PHC303",
+        "name": "Applied Optics Lab",
+        "instructor": "Amitava  Adak",
+        "description": "b.tech, phy, 6, 0-0-2"
+    },
+    {
+        "code": "PHC304",
+        "name": "Spectroscopy Lab",
+        "instructor": "R  Thangavel",
+        "description": "b.tech, phy, 6, 0-0-2"
+    },
+    {
+        "code": "PHC508",
+        "name": "Quantum Mechanics",
+        "instructor": "Sridhar  Sahu",
+        "description": "m.sc, phy, 2, 3-1-0"
+    },
+    {
+        "code": "PHC509",
+        "name": "Electrodynamics and Radiation theory",
+        "instructor": "Pankaj  Mishra",
+        "description": "m.sc, phy, 2, 3-0-0"
+    },
+    {
+        "code": "PHC510",
+        "name": "Atomic and Molecular Physics",
+        "instructor": "Vineet Kumar Rai",
+        "description": "b.tech, phy, 6, 3-1-0"
+    },
+    {
+        "code": "PHC510",
+        "name": "Atomic and Molecular Physics",
+        "instructor": "Vineet Kumar Rai",
+        "description": "m.sc, phy, 2, 3-1-0"
+    },
+    {
+        "code": "PHC511",
+        "name": "Condensed Matter Physics",
+        "instructor": "Jairam  Manam",
+        "description": "m.sc, phy, 2, 3-0-0"
+    },
+    {
+        "code": "PHC512",
+        "name": "Experimental Physics - III",
+        "instructor": "Kaushal  Kumar,Vineet Kumar Rai",
+        "description": "m.sc, phy, 2, 0-0-2"
+    },
+    {
+        "code": "PHC513",
+        "name": "Experimental Physics - IV",
+        "instructor": "Jhasaketan  Nayak,Umakanta  Tripathy",
+        "description": "m.sc, phy, 2, 0-0-2"
+    },
+    {
+        "code": "PHC571",
+        "name": "Research Methodology and Statistics",
+        "instructor": "Esha  Kundu",
+        "description": "jrf, phy, 2, 3-0-0"
+    },
+    {
+        "code": "PHD502",
+        "name": "Computational Physics",
+        "instructor": "Mandlik Mangesh Mohan",
+        "description": "m.sc, phy, 2, 3-0-0"
+    },
+    {
+        "code": "PHD503",
+        "name": "High Energy Physics",
+        "instructor": "Binata  Panda",
+        "description": "b.tech, phy, 8, 3-0-0"
+    },
+    {
+        "code": "PHD507",
+        "name": "Plasma and Space Physics",
+        "instructor": "Amitava  Adak",
+        "description": "m.sc, phy, 4, 3-0-0"
+    },
+    {
+        "code": "PHD511",
+        "name": "Astrophysics and Cosmology",
+        "instructor": "Shreya  Banerjee",
+        "description": "b.tech, phy, 8, 3-0-0"
+    },
+    {
+        "code": "PHD512",
+        "name": "Nonlinear Optics",
+        "instructor": "Umakanta  Tripathy",
+        "description": "b.tech, phy, 8, 3-0-0"
+    },
+    {
+        "code": "PHD513",
+        "name": "Semiconductor Physics and Technology",
+        "instructor": "R  Thangavel",
+        "description": "b.tech, phy, 8, 3-0-0"
+    },
+    {
+        "code": "PHE202",
+        "name": "Material Science and Engineering",
+        "instructor": "Tusharkanti  Dey",
+        "description": "b.tech, phy, 4, 3-0-0"
+    },
+    {
+        "code": "PHI101",
+        "name": "Physics",
+        "instructor": "Prashant Kumar Sharma,Soumya  Bagchi,Ritwik  Mondal",
+        "description": "comm, comm, 2, 3-0-0"
+    },
+    {
+        "code": "PHI102",
+        "name": "Physics Lab",
+        "instructor": "Ram Bilash Choudhary,Ritwik  Mondal,Prashant Kumar Sharma,Shreya  Banerjee,Shailendra Kumar Sharma,Bobby Kachappilly Antony,Rajendra Prasad Giri,Anil Kumar Nirala,Esha  Kundu,Asit Kumar Kar,Mandlik Mangesh Mohan,Soumya  Bagchi,Tusharkanti  Dey,Sudeshna  Sen,Binata  Panda",
+        "description": "comm, comm, 2, 0-0-2"
+    },
+    {
+        "code": "PHO303",
+        "name": "Physics for Society",
+        "instructor": "P. M. Sarun",
+        "description": "b.tech, phy, 8, 3-0-0"
+    },
+    {
+        "code": "PHO401",
+        "name": "Introduction to Quantum Devices",
+        "instructor": "Jhasaketan  Nayak",
+        "description": "b.tech, phy, 6, 3-0-0"
+    },
+    {
+        "code": "PHO403",
+        "name": "Energy Storage Technologies",
+        "instructor": "Ram Bilash Choudhary",
+        "description": "b.tech, phy, 6, 3-0-0"
+    },
+    {
+        "code": "PHO502",
+        "name": "Introduction to Biophysics",
+        "instructor": "Rajendra Prasad Giri",
+        "description": "m.sc, phy, 4, 3-0-0"
+    },
+    {
+        "code": "PHO503",
+        "name": "Physics of Nanomaterials",
+        "instructor": "Asit Kumar Kar",
+        "description": "b.tech, phy, 8, 3-0-0"
+    }
+]
